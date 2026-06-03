@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Data & results
+data/*.csv
+!data/README.md
+results/*.csv
+results/*.png
+*.log
+*.tmp
