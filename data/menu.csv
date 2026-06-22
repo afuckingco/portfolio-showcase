@@ -1,0 +1,25 @@
+id,name,category,price,cost
+M001,Es Kopi Susu,Coffee,22000,7000
+M002,Kopi Tubruk,Coffee,15000,4000
+M003,Americano,Coffee,20000,5000
+M004,Cappuccino,Coffee,28000,8000
+M005,Latte,Coffee,28000,8000
+M006,Es Kopi Gula Aren,Coffee,25000,7500
+M010,Teh Manis Panas/Dingin,Tea,10000,2000
+M011,Matcha Latte,Tea,28000,9000
+M012,Es Jeruk,Juice,18000,5000
+M013,Es Campur,Juice,20000,6000
+M014,Coconut Water,Juice,15000,5000
+M020,Nasi Goreng,Food,35000,12000
+M021,Mie Goreng,Food,32000,10000
+M022,Bakso,Food,30000,11000
+M023,Soto Ayam,Food,28000,9000
+M024,Gado-Gado,Food,28000,8000
+M025,Nasi Uduk Komplit,Food,30000,10000
+M026,Ayam Geprek,Food,38000,14000
+M030,Croissant,Pastry,22000,7000
+M031,Banana Bread,Pastry,25000,8000
+M032,Pisang Goreng,Pastry,18000,5000
+M033,Donut,Pastry,15000,4000
+M034,Cookies (3 pcs),Pastry,18000,5000
+M040,Extra Shot,AddOn,8000,1500
