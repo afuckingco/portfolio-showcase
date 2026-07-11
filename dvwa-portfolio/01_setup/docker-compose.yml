@@ -1,0 +1,44 @@
+# DVWA via Docker Compose
+# Usage: docker compose up -d
+# Browse: http://localhost:8080  (default: admin / password)
+#
+# WARNING: This stack is INTENTIONALLY VULNERABLE.
+# Bind only to localhost (127.0.0.1). Never expose to public network.
+
+services:
+  dvwa:
+    image: vulnerables/web-dvwa:latest
+    container_name: dvwa
+    restart: unless-stopped
+    ports:
+      # host:container -- adjust host port if 8080 is taken
+      - "127.0.0.1:8080:80"
+    environment:
+      - RECAPTCHA_PRIV_KEY=
+      - RECAPTCHA_PUB_KEY=
+      - SECURITY_LEVEL=low
+      - PHPIDS_ENABLED=0
+    healthcheck:
+      test: ["CMD", "curl", "-fsS", "http://localhost/setup.php"]
+      interval: 30s
+      timeout: 5s
+      retries: 5
+      start_period: 60s
+
+  # Optional: dedicated mariadb if you want to inspect the DB externally.
+  # The bundled DVWA image starts its own mariadb, so this is commented out
+  # by default. Uncomment + remove the embedded DB if you prefer external.
+  #
+  # mariadb:
+  #   image: mariadb:11
+  #   container_name: dvwa-db
+  #   environment:
+  #     - MARIADB_ROOT_PASSWORD=root
+  #     - MARIADB_DATABASE=dvwa
+  #     - MARIADB_USER=app
+  #     - MARIADB_PASSWORD=password
+  #   volumes:
+  #     - dvwa_db:/var/lib/mysql
+  #
+# volumes:
+#   dvwa_db:
