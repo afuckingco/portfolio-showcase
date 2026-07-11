@@ -1,0 +1,545 @@
+text,sentiment,confidence,timestamp
+"Makanannya enak, tapi harganya mahal.",NEGATIVE,0.960549533367157,1780658934.053268
+"Pantai Kuta sangat indah, ombaknya bagus untuk berselancar!",NEGATIVE,0.9785019159317017,1780658938.0794413
+Pemandangan sunset luar biasa!,NEGATIVE,0.9777292609214783,1780658940.0804777
+"Sayang, banyak pedagang yang mengganggu.",NEGATIVE,0.9881429076194763,1780658942.0814302
+Pemandangan sunset luar biasa!,NEGATIVE,0.9777292609214783,1780658944.0822947
+Pemandangan sunset luar biasa!,NEGATIVE,0.9777292609214783,1780658946.0833693
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780658948.0842142
+Transportasi umum sulit ditemukan di sini.,NEGATIVE,0.9929972290992737,1780658950.0856278
+"Makanannya enak, tapi harganya mahal.",NEGATIVE,0.960549533367157,1780658952.086736
+Pemandangan sunset luar biasa!,NEGATIVE,0.9777292609214783,1780658954.087733
+"Tidak sesuai ekspektasi, kecewa.",NEGATIVE,0.9439536333084106,1780658956.0886233
+"Tidak sesuai ekspektasi, kecewa.",NEGATIVE,0.9439536333084106,1780658958.0898268
+"Penginapan nyaman, tapi AC tidak dingin.",NEGATIVE,0.8871444463729858,1780658960.09062
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780658962.0916696
+Akses jalan macet parah.,NEGATIVE,0.5252944231033325,1780658964.0929916
+Harga tiket terlalu mahal untuk fasilitas yang ada.,NEGATIVE,0.9809442162513733,1780658966.0940123
+Transportasi umum sulit ditemukan di sini.,NEGATIVE,0.9929972290992737,1780658968.095038
+Harga tiket terlalu mahal untuk fasilitas yang ada.,NEGATIVE,0.9809442162513733,1780658970.0958092
+Akses jalan macet parah.,NEGATIVE,0.5252944231033325,1780658972.0969722
+Pemandangan sunset luar biasa!,NEGATIVE,0.9777292609214783,1780658974.0980136
+"Makanannya enak, tapi harganya mahal.",NEGATIVE,0.960549533367157,1780658976.099015
+"Pantai Kuta sangat indah, ombaknya bagus untuk berselancar!",NEGATIVE,0.9785019159317017,1780658978.1000826
+Transportasi umum sulit ditemukan di sini.,NEGATIVE,0.9929972290992737,1780658980.1012237
+Kebersihan toilet perlu ditingkatkan.,NEGATIVE,0.9969180822372437,1780658982.1023278
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780658984.1030948
+Transportasi umum sulit ditemukan di sini.,NEGATIVE,0.9929972290992737,1780658986.1043153
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780658988.105074
+Transportasi umum sulit ditemukan di sini.,NEGATIVE,0.9929972290992737,1780658990.1066992
+Pemandangan sunset luar biasa!,NEGATIVE,0.9777292609214783,1780658992.1076384
+Staff sangat helpful dan ramah.,NEGATIVE,0.7998071908950806,1780658994.108497
+Transportasi umum sulit ditemukan di sini.,NEGATIVE,0.9929972290992737,1780658996.1092982
+Saya akan kembali lagi tahun depan.,NEGATIVE,0.951592206954956,1780658998.110305
+Transportasi umum sulit ditemukan di sini.,NEGATIVE,0.9929972290992737,1780659000.111527
+Harga tiket terlalu mahal untuk fasilitas yang ada.,NEGATIVE,0.9809442162513733,1780659002.112617
+Staff sangat helpful dan ramah.,NEGATIVE,0.7998071908950806,1780659004.1135175
+Staff sangat helpful dan ramah.,NEGATIVE,0.7998071908950806,1780659006.1149764
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780659008.1158235
+Saya akan kembali lagi tahun depan.,NEGATIVE,0.951592206954956,1780659010.1163964
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780659012.1175168
+"Tidak sesuai ekspektasi, kecewa.",NEGATIVE,0.9439536333084106,1780659014.1181846
+Transportasi umum sulit ditemukan di sini.,NEGATIVE,0.9929972290992737,1780659016.1192174
+Saya akan kembali lagi tahun depan.,NEGATIVE,0.951592206954956,1780659018.1202214
+"Sayang, banyak pedagang yang mengganggu.",NEGATIVE,0.9881429076194763,1780659020.1211212
+Harga tiket terlalu mahal untuk fasilitas yang ada.,NEGATIVE,0.9809442162513733,1780659022.122025
+"Tidak sesuai ekspektasi, kecewa.",NEGATIVE,0.9439536333084106,1780659024.1226487
+Kebersihan toilet perlu ditingkatkan.,NEGATIVE,0.9969180822372437,1780659026.1234903
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780659028.1243124
+Pemandangan sunset luar biasa!,NEGATIVE,0.9777292609214783,1780659030.1250572
+Pemandangan sunset luar biasa!,NEGATIVE,0.9777292609214783,1780659032.1257825
+Transportasi umum sulit ditemukan di sini.,NEGATIVE,0.9929972290992737,1780659034.1266866
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780659036.127637
+Saya akan kembali lagi tahun depan.,NEGATIVE,0.951592206954956,1780659038.129108
+"Pantai Kuta sangat indah, ombaknya bagus untuk berselancar!",NEGATIVE,0.9785019159317017,1780659040.1306944
+Kebersihan toilet perlu ditingkatkan.,NEGATIVE,0.9969180822372437,1780659042.1313577
+"Pantai Kuta sangat indah, ombaknya bagus untuk berselancar!",NEGATIVE,0.9785019159317017,1780659044.1324992
+Akses jalan macet parah.,NEGATIVE,0.5252944231033325,1780659046.1334283
+Transportasi umum sulit ditemukan di sini.,NEGATIVE,0.9929972290992737,1780659048.1341727
+Transportasi umum sulit ditemukan di sini.,NEGATIVE,0.9929972290992737,1780659050.1348958
+Kebersihan toilet perlu ditingkatkan.,NEGATIVE,0.9969180822372437,1780659052.1361902
+"Tidak sesuai ekspektasi, kecewa.",NEGATIVE,0.9439536333084106,1780659054.136984
+"Fasilitas lengkap, anak-anak senang.",NEGATIVE,0.8898982405662537,1780659056.1379292
+"Tidak sesuai ekspektasi, kecewa.",NEGATIVE,0.9439536333084106,1780659058.138915
+"Sayang, banyak pedagang yang mengganggu.",NEGATIVE,0.9881429076194763,1780659060.1400201
+Harga tiket terlalu mahal untuk fasilitas yang ada.,NEGATIVE,0.9809442162513733,1780659062.1408012
+Kebersihan toilet perlu ditingkatkan.,NEGATIVE,0.9969180822372437,1780659064.1420712
+Kebersihan toilet perlu ditingkatkan.,NEGATIVE,0.9969180822372437,1780659066.1428664
+"Penginapan nyaman, tapi AC tidak dingin.",NEGATIVE,0.8871444463729858,1780659068.1444871
+"Tidak sesuai ekspektasi, kecewa.",NEGATIVE,0.9439536333084106,1780659070.1453779
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780659072.1470408
+Transportasi umum sulit ditemukan di sini.,NEGATIVE,0.9929972290992737,1780659074.1480508
+"Makanannya enak, tapi harganya mahal.",NEGATIVE,0.960549533367157,1780659076.1489851
+"Fasilitas lengkap, anak-anak senang.",NEGATIVE,0.8898982405662537,1780659078.1496727
+Harga tiket terlalu mahal untuk fasilitas yang ada.,NEGATIVE,0.9809442162513733,1780659080.1507325
+"Tidak sesuai ekspektasi, kecewa.",NEGATIVE,0.9439536333084106,1780659082.1521654
+Harga tiket terlalu mahal untuk fasilitas yang ada.,NEGATIVE,0.9809442162513733,1780659084.153429
+"Fasilitas lengkap, anak-anak senang.",NEGATIVE,0.8898982405662537,1780659086.154387
+Kebersihan toilet perlu ditingkatkan.,NEGATIVE,0.9969180822372437,1780659088.1550758
+Transportasi umum sulit ditemukan di sini.,NEGATIVE,0.9929972290992737,1780659090.156066
+Staff sangat helpful dan ramah.,NEGATIVE,0.7998071908950806,1780659092.1574807
+Akses jalan macet parah.,NEGATIVE,0.5252944231033325,1780659094.1582422
+"Penginapan nyaman, tapi AC tidak dingin.",NEGATIVE,0.8871444463729858,1780659096.158952
+Saya akan kembali lagi tahun depan.,NEGATIVE,0.951592206954956,1780659098.1599169
+Kebersihan toilet perlu ditingkatkan.,NEGATIVE,0.9969180822372437,1780659100.1610014
+Kebersihan toilet perlu ditingkatkan.,NEGATIVE,0.9969180822372437,1780659102.1619213
+"Pantai Kuta sangat indah, ombaknya bagus untuk berselancar!",NEGATIVE,0.9785019159317017,1780659104.1629293
+Kebersihan toilet perlu ditingkatkan.,NEGATIVE,0.9969180822372437,1780659106.1641111
+Kebersihan toilet perlu ditingkatkan.,NEGATIVE,0.9969180822372437,1780659108.1652458
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780659110.1662662
+Transportasi umum sulit ditemukan di sini.,NEGATIVE,0.9929972290992737,1780659112.167376
+"Fasilitas lengkap, anak-anak senang.",NEGATIVE,0.8898982405662537,1780659114.1684752
+Harga tiket terlalu mahal untuk fasilitas yang ada.,NEGATIVE,0.9809442162513733,1780659116.1693385
+"Penginapan nyaman, tapi AC tidak dingin.",NEGATIVE,0.8871444463729858,1780659118.170617
+"Makanannya enak, tapi harganya mahal.",NEGATIVE,0.960549533367157,1780659120.1717722
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780659122.172505
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780659124.1736343
+Transportasi umum sulit ditemukan di sini.,NEGATIVE,0.9929972290992737,1780659126.1745474
+Pemandangan sunset luar biasa!,NEGATIVE,0.9777292609214783,1780659128.1753595
+Transportasi umum sulit ditemukan di sini.,NEGATIVE,0.9929972290992737,1780659130.1764238
+"Tidak sesuai ekspektasi, kecewa.",NEGATIVE,0.9439536333084106,1780659132.1773522
+Harga tiket terlalu mahal untuk fasilitas yang ada.,NEGATIVE,0.9809442162513733,1780659134.178235
+"Tempat ini kotor sekali, sampah berserakan.",NEGATIVE,0.9838894605636597,1780659136.17966
+Transportasi umum sulit ditemukan di sini.,NEGATIVE,0.9929972290992737,1780659138.1806157
+Kebersihan toilet perlu ditingkatkan.,NEGATIVE,0.9969180822372437,1780659140.1817305
+Akses jalan macet parah.,NEGATIVE,0.5252944231033325,1780659142.1828516
+Akses jalan macet parah.,NEGATIVE,0.5252944231033325,1780659144.183765
+"Sayang, banyak pedagang yang mengganggu.",NEGATIVE,0.9881429076194763,1780659146.1847475
+Transportasi umum sulit ditemukan di sini.,NEGATIVE,0.9929972290992737,1780659148.1858804
+Kebersihan toilet perlu ditingkatkan.,NEGATIVE,0.9969180822372437,1780659150.1871216
+"Makanannya enak, tapi harganya mahal.",NEGATIVE,0.960549533367157,1780659152.1880677
+"Fasilitas lengkap, anak-anak senang.",NEGATIVE,0.8898982405662537,1780659154.1888323
+Kebersihan toilet perlu ditingkatkan.,NEGATIVE,0.9969180822372437,1780659156.1900887
+"Tempat ini kotor sekali, sampah berserakan.",NEGATIVE,0.9838894605636597,1780659158.1912172
+Pemandangan sunset luar biasa!,NEGATIVE,0.9777292609214783,1780659160.192381
+Harga tiket terlalu mahal untuk fasilitas yang ada.,NEGATIVE,0.9809442162513733,1780659162.1931925
+Akses jalan macet parah.,NEGATIVE,0.5252944231033325,1780659164.1941428
+"Tidak sesuai ekspektasi, kecewa.",NEGATIVE,0.9439536333084106,1780659166.195206
+Pemandangan sunset luar biasa!,NEGATIVE,0.9777292609214783,1780659168.1961002
+"Sayang, banyak pedagang yang mengganggu.",NEGATIVE,0.9881429076194763,1780659170.1969464
+Akses jalan macet parah.,NEGATIVE,0.5252944231033325,1780659172.1980538
+"Tempat ini kotor sekali, sampah berserakan.",NEGATIVE,0.9838894605636597,1780659174.1990705
+"Penginapan nyaman, tapi AC tidak dingin.",NEGATIVE,0.8871444463729858,1780659176.2000563
+Kebersihan toilet perlu ditingkatkan.,NEGATIVE,0.9969180822372437,1780659178.2008467
+"Tidak sesuai ekspektasi, kecewa.",NEGATIVE,0.9439536333084106,1780659180.2021685
+Akses jalan macet parah.,NEGATIVE,0.5252944231033325,1780659182.2031798
+Staff sangat helpful dan ramah.,NEGATIVE,0.7998071908950806,1780659184.2041073
+"Tidak sesuai ekspektasi, kecewa.",NEGATIVE,0.9439536333084106,1780659186.2051158
+"Penginapan nyaman, tapi AC tidak dingin.",NEGATIVE,0.8871444463729858,1780659188.2063153
+"Tempat ini kotor sekali, sampah berserakan.",NEGATIVE,0.9838894605636597,1780659190.2072392
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780659192.208756
+Transportasi umum sulit ditemukan di sini.,NEGATIVE,0.9929972290992737,1780659194.2096398
+Akses jalan macet parah.,NEGATIVE,0.5252944231033325,1780659196.210893
+Harga tiket terlalu mahal untuk fasilitas yang ada.,NEGATIVE,0.9809442162513733,1780659198.2118654
+Pemandangan sunset luar biasa!,NEGATIVE,0.9777292609214783,1780659200.2129226
+Staff sangat helpful dan ramah.,NEGATIVE,0.7998071908950806,1780659202.2139618
+"Sayang, banyak pedagang yang mengganggu.",NEGATIVE,0.9881429076194763,1780659204.2150683
+"Tidak sesuai ekspektasi, kecewa.",NEGATIVE,0.9439536333084106,1780659206.2159047
+"Pantai Kuta sangat indah, ombaknya bagus untuk berselancar!",NEGATIVE,0.9785019159317017,1780659208.216949
+Pemandangan sunset luar biasa!,NEGATIVE,0.9777292609214783,1780659210.2181451
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780659212.2192614
+Akses jalan macet parah.,NEGATIVE,0.5252944231033325,1780659214.2206006
+Akses jalan macet parah.,NEGATIVE,0.5252944231033325,1780659216.2217388
+"Fasilitas lengkap, anak-anak senang.",NEGATIVE,0.8898982405662537,1780659218.2229638
+"Sayang, banyak pedagang yang mengganggu.",NEGATIVE,0.9881429076194763,1780659220.224069
+"Makanannya enak, tapi harganya mahal.",NEGATIVE,0.960549533367157,1780659222.2250743
+Staff sangat helpful dan ramah.,NEGATIVE,0.7998071908950806,1780659224.2258925
+Saya akan kembali lagi tahun depan.,NEGATIVE,0.951592206954956,1780659226.2272632
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780659228.2289884
+"Sayang, banyak pedagang yang mengganggu.",NEGATIVE,0.9881429076194763,1780659230.2303185
+"Tempat ini kotor sekali, sampah berserakan.",NEGATIVE,0.9838894605636597,1780659232.231378
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780659234.232848
+"Sayang, banyak pedagang yang mengganggu.",NEGATIVE,0.9881429076194763,1780659236.233603
+"Fasilitas lengkap, anak-anak senang.",NEGATIVE,0.8898982405662537,1780659238.2345378
+Akses jalan macet parah.,NEGATIVE,0.5252944231033325,1780659240.2362304
+Harga tiket terlalu mahal untuk fasilitas yang ada.,NEGATIVE,0.9809442162513733,1780659242.237518
+"Sayang, banyak pedagang yang mengganggu.",NEGATIVE,0.9881429076194763,1780659244.2383735
+Akses jalan macet parah.,NEGATIVE,0.5252944231033325,1780659246.239272
+"Tempat ini kotor sekali, sampah berserakan.",NEGATIVE,0.9838894605636597,1780659248.2402925
+Akses jalan macet parah.,NEGATIVE,0.5252944231033325,1780659250.241225
+"Tidak sesuai ekspektasi, kecewa.",NEGATIVE,0.9439536333084106,1780659252.2420938
+"Makanannya enak, tapi harganya mahal.",NEGATIVE,0.960549533367157,1780659254.2429762
+Pemandangan sunset luar biasa!,NEGATIVE,0.9777292609214783,1780659256.2444446
+"Tempat ini kotor sekali, sampah berserakan.",NEGATIVE,0.9838894605636597,1780659258.2456243
+Akses jalan macet parah.,NEGATIVE,0.5252944231033325,1780659260.2466123
+Staff sangat helpful dan ramah.,NEGATIVE,0.7998071908950806,1780659262.2479675
+"Sayang, banyak pedagang yang mengganggu.",NEGATIVE,0.9881429076194763,1780659264.2491362
+Saya akan kembali lagi tahun depan.,NEGATIVE,0.951592206954956,1780659266.2503245
+"Tidak sesuai ekspektasi, kecewa.",NEGATIVE,0.9439536333084106,1780659268.2515743
+"Tidak sesuai ekspektasi, kecewa.",NEGATIVE,0.9439536333084106,1780659270.2528787
+Transportasi umum sulit ditemukan di sini.,NEGATIVE,0.9929972290992737,1780659272.2538297
+Kebersihan toilet perlu ditingkatkan.,NEGATIVE,0.9969180822372437,1780659274.255141
+"Penginapan nyaman, tapi AC tidak dingin.",NEGATIVE,0.8871444463729858,1780659276.2559772
+"Fasilitas lengkap, anak-anak senang.",NEGATIVE,0.8898982405662537,1780659278.257
+"Fasilitas lengkap, anak-anak senang.",NEGATIVE,0.8898982405662537,1780659280.2585592
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780659282.2593346
+Staff sangat helpful dan ramah.,NEGATIVE,0.7998071908950806,1780659284.2605815
+Akses jalan macet parah.,NEGATIVE,0.5252944231033325,1780659286.2617297
+"Sayang, banyak pedagang yang mengganggu.",NEGATIVE,0.9881429076194763,1780659288.2630482
+Staff sangat helpful dan ramah.,NEGATIVE,0.7998071908950806,1780659290.26411
+"Fasilitas lengkap, anak-anak senang.",NEGATIVE,0.8898982405662537,1780659292.265692
+Staff sangat helpful dan ramah.,NEGATIVE,0.7998071908950806,1780659294.2672637
+Saya akan kembali lagi tahun depan.,NEGATIVE,0.951592206954956,1780659296.268399
+"Pantai Kuta sangat indah, ombaknya bagus untuk berselancar!",NEGATIVE,0.9785019159317017,1780659298.269699
+"Penginapan nyaman, tapi AC tidak dingin.",NEGATIVE,0.8871444463729858,1780659319.2343493
+Kebersihan toilet perlu ditingkatkan.,NEGATIVE,0.9969180822372437,1780659323.2636788
+"Fasilitas lengkap, anak-anak senang.",NEGATIVE,0.8898982405662537,1780659325.2649915
+Staff sangat helpful dan ramah.,NEGATIVE,0.7998071908950806,1780659327.265928
+"Pantai Kuta sangat indah, ombaknya bagus untuk berselancar!",NEGATIVE,0.9785019159317017,1780659329.2666304
+Kebersihan toilet perlu ditingkatkan.,NEGATIVE,0.9969180822372437,1780659331.2679214
+Kebersihan toilet perlu ditingkatkan.,NEGATIVE,0.9969180822372437,1780659333.2688222
+Saya akan kembali lagi tahun depan.,NEGATIVE,0.951592206954956,1780659335.2695193
+"Sayang, banyak pedagang yang mengganggu.",NEGATIVE,0.9881429076194763,1780659337.2704298
+"Makanannya enak, tapi harganya mahal.",NEGATIVE,0.960549533367157,1780659339.2712727
+"Tempat ini kotor sekali, sampah berserakan.",NEGATIVE,0.9838894605636597,1780659341.2723005
+Staff sangat helpful dan ramah.,NEGATIVE,0.7998071908950806,1780659343.2737002
+"Penginapan nyaman, tapi AC tidak dingin.",NEGATIVE,0.8871444463729858,1780659345.2753925
+"Tempat ini kotor sekali, sampah berserakan.",NEGATIVE,0.9838894605636597,1780659347.2761629
+Pemandangan sunset luar biasa!,NEGATIVE,0.9777292609214783,1780659349.2771087
+Kebersihan toilet perlu ditingkatkan.,NEGATIVE,0.9969180822372437,1780659351.2779334
+"Makanannya enak, tapi harganya mahal.",NEGATIVE,0.960549533367157,1780659353.279114
+Pemandangan sunset luar biasa!,NEGATIVE,0.9777292609214783,1780659355.2800615
+"Penginapan nyaman, tapi AC tidak dingin.",NEGATIVE,0.8871444463729858,1780659357.2809062
+"Pantai Kuta sangat indah, ombaknya bagus untuk berselancar!",NEGATIVE,0.9785019159317017,1780659359.2816255
+"Fasilitas lengkap, anak-anak senang.",NEGATIVE,0.8898982405662537,1780659361.282506
+Pemandangan sunset luar biasa!,NEGATIVE,0.9777292609214783,1780659363.2832425
+"Sayang, banyak pedagang yang mengganggu.",NEGATIVE,0.9881429076194763,1780659365.2840507
+Harga tiket terlalu mahal untuk fasilitas yang ada.,NEGATIVE,0.9809442162513733,1780659367.2849472
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780659369.2863016
+"Penginapan nyaman, tapi AC tidak dingin.",NEGATIVE,0.8871444463729858,1780659371.2873325
+"Fasilitas lengkap, anak-anak senang.",NEGATIVE,0.8898982405662537,1780659373.288287
+"Sayang, banyak pedagang yang mengganggu.",NEGATIVE,0.9881429076194763,1780659375.2889822
+"Tidak sesuai ekspektasi, kecewa.",NEGATIVE,0.9439536333084106,1780659377.2899735
+Harga tiket terlalu mahal untuk fasilitas yang ada.,NEGATIVE,0.9809442162513733,1780659379.290889
+"Pantai Kuta sangat indah, ombaknya bagus untuk berselancar!",NEGATIVE,0.9785019159317017,1780659381.291863
+"Pantai Kuta sangat indah, ombaknya bagus untuk berselancar!",NEGATIVE,0.9785019159317017,1780659383.293114
+"Fasilitas lengkap, anak-anak senang.",NEGATIVE,0.8898982405662537,1780659385.2939808
+Pemandangan sunset luar biasa!,NEGATIVE,0.9777292609214783,1780659387.2946537
+"Sayang, banyak pedagang yang mengganggu.",NEGATIVE,0.9881429076194763,1780659389.2956538
+"Sayang, banyak pedagang yang mengganggu.",NEGATIVE,0.9881429076194763,1780659391.2966828
+Pemandangan sunset luar biasa!,NEGATIVE,0.9777292609214783,1780659393.297607
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780659395.2988508
+"Pantai Kuta sangat indah, ombaknya bagus untuk berselancar!",NEGATIVE,0.9785019159317017,1780659397.299647
+"Makanannya enak, tapi harganya mahal.",NEGATIVE,0.960549533367157,1780659399.300716
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780659401.3016691
+Saya akan kembali lagi tahun depan.,NEGATIVE,0.951592206954956,1780659403.3023221
+"Sayang, banyak pedagang yang mengganggu.",NEGATIVE,0.9881429076194763,1780659405.3034055
+"Tempat ini kotor sekali, sampah berserakan.",NEGATIVE,0.9838894605636597,1780659407.3042173
+Pemandangan sunset luar biasa!,NEGATIVE,0.9777292609214783,1780659409.3048763
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780659411.3061044
+"Tempatnya cukup ramai, tapi masih oke.",NEGATIVE,0.9911137223243713,1780659499.7872124
+Saya pasti akan kembali lagi ke sini.,NEGATIVE,0.9830044507980347,1780659503.8181145
+Tersedia banyak pilihan oleh-oleh.,NEGATIVE,0.5597915649414062,1780659505.819002
+"Tidak sesuai ekspektasi, kecewa.",NEGATIVE,0.9439536333084106,1780659507.8200397
+"Makanannya enak, tapi harganya mahal.",NEGATIVE,0.960549533367157,1780659509.8208878
+"Harga tiket standar, tidak terlalu mahal.",NEGATIVE,0.9915989637374878,1780659511.8217444
+"Tidak sesuai ekspektasi, kecewa.",NEGATIVE,0.9439536333084106,1780659513.8226702
+Cuaca hari ini biasa saja.,NEGATIVE,0.9843637347221375,1780659515.823793
+"Harga tiket standar, tidak terlalu mahal.",NEGATIVE,0.9915989637374878,1780659517.824703
+Transportasi umum mudah dan murah.,NEGATIVE,0.9876739382743835,1780659519.8256862
+"Makanannya enak, harga terjangkau.",NEGATIVE,0.9533485174179077,1780659521.826606
+Fasilitas hotel lengkap dan bersih.,NEGATIVE,0.9075272083282471,1780659523.8282106
+Saya pasti akan kembali lagi ke sini.,NEGATIVE,0.9830044507980347,1780659525.8288922
+Perjalanan ke sini memakan waktu 2 jam.,NEGATIVE,0.965711236000061,1780659527.8296995
+Tersedia banyak pilihan oleh-oleh.,NEGATIVE,0.5597915649414062,1780659529.8307357
+Fasilitas hotel lengkap dan bersih.,NEGATIVE,0.9075272083282471,1780659531.831835
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780659533.8330996
+Cuaca hari ini biasa saja.,NEGATIVE,0.9843637347221375,1780659535.8339655
+Fasilitas hotel lengkap dan bersih.,NEGATIVE,0.9075272083282471,1780659537.8354583
+"Makanannya enak, harga terjangkau.",NEGATIVE,0.9533485174179077,1780659539.8363745
+Tersedia banyak pilihan oleh-oleh.,NEGATIVE,0.5597915649414062,1780659541.837562
+Harga tiket terlalu mahal untuk fasilitas yang ada.,NEGATIVE,0.9809442162513733,1780659543.8391953
+Akses jalan macet parah.,NEGATIVE,0.5252944231033325,1780659545.8402207
+"Pelayanan sangat ramah, saya suka!",NEGATIVE,0.9324567914009094,1780659547.8413582
+"Makanannya enak, tapi harganya mahal.",NEGATIVE,0.960549533367157,1780659549.8422315
+Tersedia banyak pilihan oleh-oleh.,NEGATIVE,0.5597915649414062,1780659551.8430853
+Saya pasti akan kembali lagi ke sini.,NEGATIVE,0.9830044507980347,1780659553.8441231
+Cuaca hari ini biasa saja.,NEGATIVE,0.9843637347221375,1780659555.8453286
+Transportasi umum mudah dan murah.,NEGATIVE,0.9876739382743835,1780659557.8461983
+"Sayang, banyak pedagang yang mengganggu.",NEGATIVE,0.9881429076194763,1780659559.8472133
+Perjalanan ke sini memakan waktu 2 jam.,NEGATIVE,0.965711236000061,1780659561.8480785
+"Harga tiket standar, tidak terlalu mahal.",NEGATIVE,0.9915989637374878,1780659563.848753
+"Tidak sesuai ekspektasi, kecewa.",NEGATIVE,0.9439536333084106,1780659565.8498995
+"Pantai Kuta sangat indah, ombaknya bagus!",NEGATIVE,0.8468617796897888,1780659567.8516695
+Harga tiket terlalu mahal untuk fasilitas yang ada.,NEGATIVE,0.9809442162513733,1780659569.8528402
+Tersedia banyak pilihan oleh-oleh.,NEGATIVE,0.5597915649414062,1780659571.8537164
+"Tempatnya cukup ramai, tapi masih oke.",NEGATIVE,0.9911137223243713,1780659573.8546245
+Cuaca hari ini biasa saja.,NEGATIVE,0.9843637347221375,1780659575.855605
+Transportasi umum sulit ditemukan di sini.,NEGATIVE,0.9929972290992737,1780659577.856768
+Cuaca hari ini biasa saja.,NEUTRAL,0.0,1780660588.5860627
+"Tempatnya cukup ramai, tapi masih oke.",NEUTRAL,0.0,1780660590.5934296
+"Pelayanan sangat ramah, saya suka!",NEUTRAL,0.0,1780660592.5941117
+Fasilitas hotel lengkap dan bersih.,NEUTRAL,0.0,1780660594.5949738
+Tersedia banyak pilihan oleh-oleh.,NEUTRAL,0.0,1780660596.5955725
+"Makanannya enak, tapi harganya mahal.",NEUTRAL,0.0,1780660598.596283
+Transportasi umum mudah dan murah.,NEUTRAL,0.0,1780660600.5972095
+Fasilitas hotel lengkap dan bersih.,NEUTRAL,0.0,1780660602.5981562
+Akses jalan macet parah.,NEUTRAL,0.0,1780660604.599055
+"Penginapan nyaman, tapi AC tidak dingin.",NEUTRAL,0.0,1780660606.600202
+"Tidak sesuai ekspektasi, kecewa.",NEUTRAL,0.0,1780660608.6015515
+Transportasi umum sulit ditemukan di sini.,NEUTRAL,0.0,1780660610.6024015
+Transportasi umum sulit ditemukan di sini.,NEUTRAL,0.0,1780660612.6031675
+"Pantai Kuta sangat indah, ombaknya bagus!",NEUTRAL,0.0,1780660614.6038737
+Cuaca hari ini biasa saja.,NEUTRAL,0.0,1780660616.6045616
+Tersedia banyak pilihan oleh-oleh.,NEUTRAL,0.0,1780660618.605196
+"Penginapan nyaman, tapi AC tidak dingin.",NEUTRAL,0.0,1780660620.6060178
+"Tempatnya cukup ramai, tapi masih oke.",NEUTRAL,0.0,1780660622.6070676
+Transportasi umum sulit ditemukan di sini.,NEUTRAL,0.0,1780660624.607903
+Transportasi umum mudah dan murah.,NEUTRAL,0.0,1780660626.6085222
+Fasilitas hotel lengkap dan bersih.,NEUTRAL,0.0,1780660628.6095111
+"Tidak sesuai ekspektasi, kecewa.",NEUTRAL,0.0,1780660630.6101456
+"Makanannya enak, harga terjangkau.",NEUTRAL,0.0,1780660632.6107728
+Pemandangan sunset luar biasa!,NEUTRAL,0.0,1780660634.6114976
+Tersedia banyak pilihan oleh-oleh.,NEUTRAL,0.0,1780660636.6124072
+Perjalanan ke sini memakan waktu 2 jam.,NEUTRAL,0.0,1780660638.6129768
+Transportasi umum sulit ditemukan di sini.,NEUTRAL,0.0,1780660640.613644
+"Sayang, banyak pedagang yang mengganggu.",NEUTRAL,0.0,1780660642.6146355
+"Makanannya enak, tapi harganya mahal.",NEUTRAL,0.0,1780660644.6156695
+Fasilitas hotel lengkap dan bersih.,NEUTRAL,0.0,1780660646.6171315
+Saya pasti akan kembali lagi ke sini.,NEUTRAL,0.0,1780660648.617904
+Harga tiket terlalu mahal untuk fasilitas yang ada.,NEUTRAL,0.0,1780660650.6184883
+"Makanannya enak, tapi harganya mahal.",NEUTRAL,0.0,1780660652.6192741
+Saya pasti akan kembali lagi ke sini.,NEUTRAL,0.0,1780660654.6204667
+"Makanannya enak, harga terjangkau.",NEUTRAL,0.0,1780660656.6210854
+Cuaca hari ini biasa saja.,NEUTRAL,0.0,1780660658.6217866
+"Pelayanan sangat ramah, saya suka!",NEUTRAL,0.0,1780660660.6226199
+"Pantai Kuta sangat indah, ombaknya bagus!",NEUTRAL,0.0,1780660662.6237006
+"Makanannya enak, tapi harganya mahal.",NEUTRAL,0.0,1780660664.6242476
+"Tempatnya cukup ramai, tapi masih oke.",NEUTRAL,0.0,1780660666.6252584
+"Makanannya enak, tapi harganya mahal.",NEUTRAL,0.0,1780660668.6260889
+Tersedia banyak pilihan oleh-oleh.,NEUTRAL,0.0,1780660670.626671
+Perjalanan ke sini memakan waktu 2 jam.,NEUTRAL,0.0,1780660672.6273475
+"Makanannya enak, tapi harganya mahal.",NEUTRAL,0.0,1780660674.6280756
+"Tidak sesuai ekspektasi, kecewa.",NEUTRAL,0.0,1780660676.6290045
+Transportasi umum sulit ditemukan di sini.,NEUTRAL,0.0,1780660678.6299517
+Saya pasti akan kembali lagi ke sini.,NEUTRAL,0.0,1780660680.6310287
+"Harga tiket standar, tidak terlalu mahal.",NEUTRAL,0.0,1780660682.6319425
+Fasilitas hotel lengkap dan bersih.,NEUTRAL,0.0,1780660684.6329148
+Pemandangan sunset luar biasa!,NEUTRAL,0.0,1780660686.6337738
+"Tidak sesuai ekspektasi, kecewa.",NEUTRAL,0.0,1780660688.6347816
+"Pantai Kuta sangat indah, ombaknya bagus!",NEUTRAL,0.0,1780660690.6355407
+Cuaca hari ini biasa saja.,NEUTRAL,0.0,1780660692.6367671
+"Tempatnya cukup ramai, tapi masih oke.",NEUTRAL,0.0,1780660694.6377459
+Harga tiket terlalu mahal untuk fasilitas yang ada.,NEUTRAL,0.0,1780660696.638456
+Transportasi umum sulit ditemukan di sini.,NEUTRAL,0.0,1780660698.6393948
+"Sayang, banyak pedagang yang mengganggu.",NEUTRAL,0.0,1780660700.640633
+"Tidak sesuai ekspektasi, kecewa.",NEUTRAL,0.0,1780660702.6419008
+"Pantai Kuta sangat indah, ombaknya bagus!",NEUTRAL,0.0,1780660704.6428566
+Transportasi umum mudah dan murah.,NEUTRAL,0.0,1780660706.6435905
+"Sayang, banyak pedagang yang mengganggu.",NEUTRAL,0.0,1780660708.6447203
+Fasilitas hotel lengkap dan bersih.,NEUTRAL,0.0,1780660710.6458583
+"Tempatnya cukup ramai, tapi masih oke.",NEUTRAL,0.0,1780660712.6466243
+Transportasi umum mudah dan murah.,NEUTRAL,0.0,1780660714.6472478
+"Makanannya enak, harga terjangkau.",NEUTRAL,0.0,1780660716.648259
+"Pelayanan sangat ramah, saya suka!",NEUTRAL,0.0,1780660718.648818
+Cuaca hari ini biasa saja.,NEUTRAL,0.0,1780660720.6496453
+Harga tiket terlalu mahal untuk fasilitas yang ada.,NEUTRAL,0.0,1780660722.6505792
+Perjalanan ke sini memakan waktu 2 jam.,NEUTRAL,0.0,1780660724.651554
+"Pelayanan sangat ramah, saya suka!",NEUTRAL,0.0,1780660726.6523101
+"Makanannya enak, tapi harganya mahal.",NEUTRAL,0.0,1780660728.6528988
+"Makanannya enak, harga terjangkau.",NEUTRAL,0.0,1780660730.6535141
+"Tempatnya cukup ramai, tapi masih oke.",NEUTRAL,0.0,1780660732.6543038
+"Sayang, banyak pedagang yang mengganggu.",NEUTRAL,0.0,1780660734.6548548
+Pemandangan sunset luar biasa!,NEUTRAL,0.0,1780660736.6562047
+"Tidak sesuai ekspektasi, kecewa.",NEUTRAL,0.0,1780660738.6570826
+Pemandangan sunset luar biasa!,NEUTRAL,0.0,1780660740.657675
+"Makanannya enak, tapi harganya mahal.",NEUTRAL,0.0,1780660742.6586764
+"Makanannya enak, tapi harganya mahal.",NEUTRAL,0.0,1780660744.6596065
+"Harga tiket standar, tidak terlalu mahal.",NEUTRAL,0.0,1780660746.6604707
+"Sayang, banyak pedagang yang mengganggu.",NEUTRAL,0.0,1780660748.661462
+Fasilitas hotel lengkap dan bersih.,NEUTRAL,0.0,1780660750.662254
+Transportasi umum mudah dan murah.,NEUTRAL,0.0,1780660752.663248
+Transportasi umum sulit ditemukan di sini.,NEUTRAL,0.0,1780660754.6639981
+"Tidak sesuai ekspektasi, kecewa.",NEUTRAL,0.0,1780660756.6646235
+"Makanannya enak, harga terjangkau.",NEUTRAL,0.0,1780660758.665185
+"Tempatnya cukup ramai, tapi masih oke.",NEUTRAL,0.0,1780660760.6662061
+"Harga tiket standar, tidak terlalu mahal.",NEUTRAL,0.0,1780660762.6675858
+"Harga tiket standar, tidak terlalu mahal.",NEUTRAL,0.0,1780660764.6684968
+Transportasi umum sulit ditemukan di sini.,NEUTRAL,0.0,1780660766.6694064
+Akses jalan macet parah.,NEUTRAL,0.0,1780660768.670396
+"Makanannya enak, harga terjangkau.",NEUTRAL,0.0,1780660770.6712859
+"Pelayanan sangat ramah, saya suka!",NEUTRAL,0.0,1780660772.6721268
+Transportasi umum sulit ditemukan di sini.,NEUTRAL,0.0,1780660774.6731958
+Harga tiket terlalu mahal untuk fasilitas yang ada.,NEUTRAL,0.0,1780660776.6742127
+"Pelayanan sangat ramah, saya suka!",NEUTRAL,0.0,1780660778.6747556
+"Pelayanan sangat ramah, saya suka!",NEUTRAL,0.0,1780660780.6757243
+Harga tiket terlalu mahal untuk fasilitas yang ada.,NEUTRAL,0.0,1780660782.6768577
+"Pelayanan sangat ramah, saya suka!",NEUTRAL,0.0,1780660784.677783
+"Makanannya enak, harga terjangkau.",NEUTRAL,0.0,1780660786.6786237
+Tersedia banyak pilihan oleh-oleh.,NEUTRAL,0.0,1780660788.6794894
+Perjalanan ke sini memakan waktu 2 jam.,NEUTRAL,0.0,1780660790.6805282
+"Makanannya enak, tapi harganya mahal.",NEUTRAL,0.0,1780660792.6811278
+"Pelayanan sangat ramah, saya suka!",NEUTRAL,0.0,1780660794.6820812
+Akses jalan macet parah.,NEUTRAL,0.0,1780660796.683131
+Fasilitas hotel lengkap dan bersih.,NEUTRAL,0.0,1780660798.6840606
+"Penginapan nyaman, tapi AC tidak dingin.",NEUTRAL,0.0,1780660800.684801
+Tersedia banyak pilihan oleh-oleh.,NEUTRAL,0.0,1780660802.6858118
+"Tidak sesuai ekspektasi, kecewa.",NEUTRAL,0.0,1780660804.6872356
+"Makanannya enak, harga terjangkau.",NEUTRAL,0.0,1780660806.688576
+"Harga tiket standar, tidak terlalu mahal.",NEUTRAL,0.0,1780660808.6894474
+"Makanannya enak, harga terjangkau.",NEUTRAL,0.0,1780660810.690746
+"Pantai Kuta sangat indah, ombaknya bagus!",NEUTRAL,0.0,1780660812.6919143
+"Makanannya enak, harga terjangkau.",NEUTRAL,0.0,1780660814.6932628
+"Makanannya enak, harga terjangkau.",NEUTRAL,0.0,1780660816.6938982
+Fasilitas hotel lengkap dan bersih.,NEUTRAL,0.0,1780660818.6945097
+"The beach is absolutely beautiful, great waves!",POSITIVE,0.925,1780660827.4009364
+"Amazing sunset view, highly recommended!",POSITIVE,0.4,1780660829.4080236
+"Amazing sunset view, highly recommended!",POSITIVE,0.4,1780660831.4087453
+The place is quite crowded but still fine.,POSITIVE,0.4166666666666667,1780660833.4093847
+"Amazing sunset view, highly recommended!",POSITIVE,0.4,1780660835.4103436
+"The service was very friendly, I loved it!",POSITIVE,0.68125,1780660837.4111407
+"Amazing sunset view, highly recommended!",POSITIVE,0.4,1780660839.4121308
+"The ticket price is standard, not too expensive.",NEGATIVE,0.25,1780660841.4129977
+"Did not meet expectations, disappointed.",NEGATIVE,0.75,1780660843.4137583
+There are many souvenir options.,POSITIVE,0.5,1780660845.4143953
+I will definitely come back again.,NEUTRAL,0.0,1780660847.415331
+"The ticket price is standard, not too expensive.",NEGATIVE,0.25,1780660849.416168
+"Did not meet expectations, disappointed.",NEGATIVE,0.75,1780660851.4171252
+The accommodation was comfortable but AC not cold.,POSITIVE,0.35,1780660853.418075
+Terrible traffic jam.,NEGATIVE,1.0,1780660855.4189618
+"Amazing sunset view, highly recommended!",POSITIVE,0.4,1780660857.4196527
+The place is quite crowded but still fine.,POSITIVE,0.4166666666666667,1780660859.4203422
+"The ticket price is standard, not too expensive.",NEGATIVE,0.25,1780660861.421201
+"The beach is absolutely beautiful, great waves!",POSITIVE,0.925,1780660863.4218028
+"Amazing sunset view, highly recommended!",POSITIVE,0.4,1780660865.4223754
+There are many souvenir options.,POSITIVE,0.5,1780660867.4232628
+"Amazing sunset view, highly recommended!",POSITIVE,0.4,1780660869.4243176
+"The service was very friendly, I loved it!",POSITIVE,0.68125,1780660871.424962
+"The beach is absolutely beautiful, great waves!",POSITIVE,0.925,1780660873.4255497
+The hotel facilities are complete and clean.,POSITIVE,0.23333333333333334,1780660875.4261534
+The accommodation was comfortable but AC not cold.,POSITIVE,0.35,1780660877.4272091
+The accommodation was comfortable but AC not cold.,POSITIVE,0.35,1780660879.4280996
+"Did not meet expectations, disappointed.",NEGATIVE,0.75,1780660881.4288156
+There are many souvenir options.,POSITIVE,0.5,1780660883.429598
+"The service was very friendly, I loved it!",POSITIVE,0.68125,1780660885.4305282
+Too many street vendors disturbing.,NEUTRAL,0.0,1780660887.4316027
+There are many souvenir options.,POSITIVE,0.5,1780660889.4324214
+There are many souvenir options.,POSITIVE,0.5,1780660891.4334822
+Ticket price is too high for the facilities provided.,POSITIVE,0.16,1780660893.434674
+Terrible traffic jam.,NEGATIVE,1.0,1780660895.435673
+The hotel facilities are complete and clean.,POSITIVE,0.23333333333333334,1780660897.4366808
+"Amazing sunset view, highly recommended!",POSITIVE,0.4,1780660899.4379537
+The weather today is just okay.,POSITIVE,0.5,1780660901.438632
+Public transport is hard to find here.,NEGATIVE,0.14583333333333334,1780660903.4399652
+The accommodation was comfortable but AC not cold.,POSITIVE,0.35,1780660905.4407778
+I will definitely come back again.,NEUTRAL,0.0,1780660907.4421995
+"The beach is absolutely beautiful, great waves!",POSITIVE,0.925,1780660909.4431913
+Terrible traffic jam.,NEGATIVE,1.0,1780660911.4438653
+Ticket price is too high for the facilities provided.,POSITIVE,0.16,1780660913.444563
+The hotel facilities are complete and clean.,POSITIVE,0.23333333333333334,1780660915.4455824
+I will definitely come back again.,NEUTRAL,0.0,1780660917.4463456
+The weather today is just okay.,POSITIVE,0.5,1780660919.4478803
+"The beach is absolutely beautiful, great waves!",POSITIVE,0.925,1780660921.4485917
+I will definitely come back again.,NEUTRAL,0.0,1780660923.4493663
+The food was good but too expensive.,POSITIVE,0.09999999999999998,1780660925.4502478
+There are many souvenir options.,POSITIVE,0.5,1780660927.4510329
+"The ticket price is standard, not too expensive.",NEGATIVE,0.25,1780660929.4516313
+I will definitely come back again.,NEUTRAL,0.0,1780660931.4530833
+I will definitely come back again.,NEUTRAL,0.0,1780660933.4541159
+"Did not meet expectations, disappointed.",NEGATIVE,0.75,1780660935.454943
+The food is delicious and affordable.,POSITIVE,1.0,1780660937.4559073
+"The service was very friendly, I loved it!",POSITIVE,0.68125,1780660939.4565983
+The place is quite crowded but still fine.,POSITIVE,0.4166666666666667,1780660941.457418
+Public transport is hard to find here.,NEGATIVE,0.14583333333333334,1780660943.4580455
+The place is quite crowded but still fine.,POSITIVE,0.4166666666666667,1780660945.4590256
+"Amazing sunset view, highly recommended!",POSITIVE,0.4,1780660947.4600785
+Public transport is hard to find here.,NEGATIVE,0.14583333333333334,1780660949.461104
+"The beach is absolutely beautiful, great waves!",POSITIVE,0.925,1780660951.462186
+"The beach is absolutely beautiful, great waves!",POSITIVE,0.925,1780660953.4628088
+Public transport is hard to find here.,NEGATIVE,0.14583333333333334,1780660955.4637382
+"The service was very friendly, I loved it!",POSITIVE,0.68125,1780660957.4643652
+The journey took 2 hours.,NEUTRAL,0.0,1780660959.465368
+"Did not meet expectations, disappointed.",NEGATIVE,0.75,1780660961.4670246
+The food is delicious and affordable.,POSITIVE,1.0,1780660963.4677024
+Public transport is hard to find here.,NEGATIVE,0.14583333333333334,1780660965.4683068
+There are many souvenir options.,POSITIVE,0.5,1780660967.4696147
+"Amazing sunset view, highly recommended!",POSITIVE,0.4,1780660969.4704695
+Public transport is easy and cheap.,POSITIVE,0.2777777777777778,1780660971.4710393
+Public transport is easy and cheap.,POSITIVE,0.2777777777777778,1780660973.47185
+I will definitely come back again.,NEUTRAL,0.0,1780660975.472461
+Public transport is hard to find here.,NEGATIVE,0.14583333333333334,1780660977.473329
+The food is delicious and affordable.,POSITIVE,1.0,1780660979.4745636
+Public transport is easy and cheap.,POSITIVE,0.2777777777777778,1780660981.4755979
+Terrible traffic jam.,NEGATIVE,1.0,1780660983.4767482
+The accommodation was comfortable but AC not cold.,POSITIVE,0.35,1780660985.4775727
+The food was good but too expensive.,POSITIVE,0.09999999999999998,1780660987.478318
+I will definitely come back again.,NEUTRAL,0.0,1780660989.4794266
+The hotel facilities are complete and clean.,POSITIVE,0.23333333333333334,1780660991.4803655
+There are many souvenir options.,POSITIVE,0.5,1780660993.481861
+"The service was very friendly, I loved it!",POSITIVE,0.68125,1780660995.4825635
+There are many souvenir options.,POSITIVE,0.5,1780660997.4831476
+"Did not meet expectations, disappointed.",NEGATIVE,0.75,1780660999.4840007
+The weather today is just okay.,POSITIVE,0.5,1780661001.485048
+"The beach is absolutely beautiful, great waves!",POSITIVE,0.925,1780661003.4865649
+The hotel facilities are complete and clean.,POSITIVE,0.23333333333333334,1780661005.4872873
+"The beach is absolutely beautiful, great waves!",POSITIVE,0.925,1780661007.4883559
+The food was good but too expensive.,POSITIVE,0.09999999999999998,1780661009.4892213
+Public transport is easy and cheap.,POSITIVE,0.2777777777777778,1780661011.4900148
+I will definitely come back again.,NEUTRAL,0.0,1780661013.49077
+There are many souvenir options.,POSITIVE,0.5,1780661015.491402
+The food was good but too expensive.,POSITIVE,0.09999999999999998,1780661017.4924448
+"The service was very friendly, I loved it!",POSITIVE,0.68125,1780661019.4931076
+The weather today is just okay.,POSITIVE,0.5,1780661021.4944727
+"The beach is absolutely beautiful, great waves!",POSITIVE,0.925,1780661023.4951606
+The food is delicious and affordable.,POSITIVE,1.0,1780661025.4958866
+Public transport is hard to find here.,NEGATIVE,0.14583333333333334,1780661027.496494
+The hotel facilities are complete and clean.,POSITIVE,0.23333333333333334,1780661029.4975848
+Ticket price is too high for the facilities provided.,POSITIVE,0.16,1780661031.498651
+Too many street vendors disturbing.,NEUTRAL,0.0,1780661033.4992497
+"The beach is absolutely beautiful, great waves!",POSITIVE,0.925,1780661035.5001159
+The food is delicious and affordable.,POSITIVE,1.0,1780661037.501266
+The journey took 2 hours.,NEUTRAL,0.0,1780661039.5022936
+Too many street vendors disturbing.,NEUTRAL,0.0,1780661041.5032275
+There are many souvenir options.,POSITIVE,0.5,1780661043.5039606
+Terrible traffic jam.,NEGATIVE,1.0,1780661045.504497
+Ticket price is too high for the facilities provided.,POSITIVE,0.16,1780661047.505121
+The food was good but too expensive.,POSITIVE,0.09999999999999998,1780661049.5058768
+"The beach is absolutely beautiful, great waves!",POSITIVE,0.925,1780661051.5065765
+Public transport is hard to find here.,NEGATIVE,0.14583333333333334,1780661053.50721
+Too many street vendors disturbing.,NEUTRAL,0.0,1780661055.5077615
+The place is quite crowded but still fine.,POSITIVE,0.4166666666666667,1780661057.5087717
+Terrible traffic jam.,NEGATIVE,1.0,1780661059.5096045
+The food was good but too expensive.,POSITIVE,0.09999999999999998,1780661061.5105348
+Terrible traffic jam.,NEGATIVE,1.0,1780661063.5114849
+The weather today is just okay.,POSITIVE,0.5,1780661065.512388
+Public transport is easy and cheap.,POSITIVE,0.2777777777777778,1780661067.5133884
+Public transport is hard to find here.,NEGATIVE,0.14583333333333334,1780661069.514693
+The accommodation was comfortable but AC not cold.,POSITIVE,0.35,1780661071.5153892
+The place is quite crowded but still fine.,POSITIVE,0.4166666666666667,1780661073.5162275
+There are many souvenir options.,POSITIVE,0.5,1780661075.5170145
+Public transport is hard to find here.,NEGATIVE,0.14583333333333334,1780661077.5180213
+The journey took 2 hours.,NEUTRAL,0.0,1780661079.5189967
+"The ticket price is standard, not too expensive.",NEGATIVE,0.25,1780661081.520096
+Public transport is easy and cheap.,POSITIVE,0.2777777777777778,1780661083.5209646
+Public transport is easy and cheap.,POSITIVE,0.2777777777777778,1780661085.5217078
+Too many street vendors disturbing.,NEUTRAL,0.0,1780661087.5223594
+The place is quite crowded but still fine.,POSITIVE,0.4166666666666667,1780661089.5236697
+The place is quite crowded but still fine.,POSITIVE,0.4166666666666667,1780661091.5249457
+The weather today is just okay.,POSITIVE,0.5,1780661093.5255685
+The accommodation was comfortable but AC not cold.,POSITIVE,0.35,1780661095.5262449
+The weather today is just okay.,POSITIVE,0.5,1780661097.5269196
+The weather today is just okay.,POSITIVE,0.5,1780661099.527623
+The accommodation was comfortable but AC not cold.,POSITIVE,0.35,1780661101.5288486
+The hotel facilities are complete and clean.,POSITIVE,0.23333333333333334,1780661103.5297127
+"The service was very friendly, I loved it!",POSITIVE,0.68125,1780661105.5302992
+I will definitely come back again.,NEUTRAL,0.0,1780661107.53135
+Public transport is hard to find here.,NEGATIVE,0.14583333333333334,1780661109.5324633
+Ticket price is too high for the facilities provided.,POSITIVE,0.16,1780661111.5335295
+The journey took 2 hours.,NEUTRAL,0.0,1780661113.5341666
+"The ticket price is standard, not too expensive.",NEGATIVE,0.25,1780661115.5348904
+The hotel facilities are complete and clean.,POSITIVE,0.23333333333333334,1780661117.5359757
+"The ticket price is standard, not too expensive.",NEGATIVE,0.25,1780661119.537299
+Ticket price is too high for the facilities provided.,POSITIVE,0.16,1780661121.5380588
+"The beach is absolutely beautiful, great waves!",POSITIVE,0.925,1780661123.5390692
+There are many souvenir options.,POSITIVE,0.5,1780661125.5401475
+The food was good but too expensive.,POSITIVE,0.09999999999999998,1780661127.5414832
+The food was good but too expensive.,POSITIVE,0.09999999999999998,1780661129.5421126
+The journey took 2 hours.,NEUTRAL,0.0,1780661131.5432744
+The weather today is just okay.,POSITIVE,0.5,1780661133.544032
+The accommodation was comfortable but AC not cold.,POSITIVE,0.35,1780661135.5449507
+There are many souvenir options.,POSITIVE,0.5,1780661137.546297
+The journey took 2 hours.,NEUTRAL,0.0,1780661139.5471556
+Terrible traffic jam.,NEGATIVE,1.0,1780661141.548113
+Public transport is easy and cheap.,POSITIVE,0.2777777777777778,1780661143.5493815
+The food is delicious and affordable.,POSITIVE,1.0,1780661145.550027
+Ticket price is too high for the facilities provided.,POSITIVE,0.16,1780661147.5509813

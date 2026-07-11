@@ -1,0 +1,10 @@
+redis
+pandas
+numpy
+transformers
+torch
+scikit-learn
+streamlit
+plotly
+matplotlib
+streamlit-autorefresh
