@@ -1,0 +1,16 @@
+# Core data science stack
+pandas>=2.0
+numpy>=1.24
+
+# Forecasting
+prophet>=1.1
+
+# ML / clustering
+scikit-learn>=1.3
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.13
+
+# Utilities
+python-dateutil>=2.8
