@@ -48,7 +48,7 @@ bali-tourism-mlops/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/afiqandico13/bali-tourism-mlops.git
+git clone https://github.com/afuckingco/bali-tourism-mlops.git
 cd bali-tourism-mlops
 ```
 

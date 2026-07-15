@@ -33,7 +33,7 @@ text
 ## 🚀 Cara Menjalankan (Lokal)
 
 ### 1. Clone repositori
-git clone https://github.com/afiqandico13/sentiment-streaming.git
+git clone https://github.com/afuckingco/sentiment-streaming.git
 cd sentiment-streaming
 ### 2. Install dependencies
 pip install -r requirements.txt
