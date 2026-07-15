@@ -43,7 +43,7 @@ fraud-detection/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/afiqandico13/fraud-detection.git
+git clone https://github.com/afuckingco/fraud-detection.git
 cd fraud-detection
 ```
 
@@ -109,9 +109,9 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## 📧 Contact & Portfolio
 
-**Afiq Andico**  
-[![GitHub](https://img.shields.io/badge/GitHub-afiqandico13-181717)](https://github.com/afiqandico13) 
-[![Email](https://img.shields.io/badge/Email-afiqandico13%40gmail.com-D14836)](mailto:afiqandico13@gmail.com)
+**afuckingco**  
+[![GitHub](https://img.shields.io/badge/GitHub-afuckingco-181717)](https://github.com/afuckingco) 
+[![Email](https://img.shields.io/badge/Email-afuckingco%40gmail.com-D14836)](mailto:anotherwaltzcompany@gmail.com)
 
 ---
 

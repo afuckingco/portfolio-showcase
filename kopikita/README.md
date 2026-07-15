@@ -156,11 +156,11 @@ analysis surface is non-trivial — but small enough to run on a laptop in secon
 
 ## Author
 
-**Afiq Andico Pangimpian** — IT Support @ Cube Cafe Jimbaran, Information
+**afuckingco** — IT Support @ Cube Cafe Jimbaran, Information
 Systems researcher, Bali Indonesia.
 
-- GitHub: [@afiqandico13](https://github.com/afiqandico13)
-- Contact: afiqandico13@gmail.com
+- GitHub: [@afuckingco](https://github.com/afuckingco)
+- Contact: anotherwaltzcompany@gmail.com
 
 Built as a portfolio piece demonstrating end-to-end applied ML.
 

@@ -1,6 +1,6 @@
 # DVWA Portfolio
 
-A clean, professional portfolio documenting the **Damn Vulnerable Web Application (DVWA)** security research carried out by Afiq Andico.
+A clean, professional portfolio documenting the **Damn Vulnerable Web Application (DVWA)** security research carried out by afuckingco.
 
 ## What’s Inside
 

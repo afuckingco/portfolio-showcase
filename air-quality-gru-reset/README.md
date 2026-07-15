@@ -41,7 +41,7 @@ air-quality-gru-reset/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/afiqandico13/air-quality-gru-reset.git
+git clone https://github.com/afuckingco/air-quality-gru-reset.git
 cd air-quality-gru-reset
 
 2. Create a virtual environment and install dependencies
