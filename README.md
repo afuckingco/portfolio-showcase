@@ -1,4 +1,6 @@
 # Portfolio Showcase
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  [![CI](https://github.com/afuckingco/portfolio-showcase/actions/workflows/ci.yml/badge.svg)](https://github.com/afuckingco/portfolio-showcase/actions)
+
 
 Consolidated collection of data science / ML portfolio projects, each in its own subdirectory with independent history preserved via git subtree.
 
