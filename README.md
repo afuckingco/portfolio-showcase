@@ -47,6 +47,7 @@ Modules Active: 15 | Architecture: Modular Monorepo | Status: OPERATIONAL
 | **[air-quality-gru-reset](./air-quality-gru-reset)** | Environmental / Research | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat) ![GRU](https://img.shields.io/badge/GRU-0075ca?style=flat) | PM2.5 air quality prediction with GRU + adaptive reset. |
 | **[sentiment-streaming](./sentiment-streaming)** | NLP / Real-time | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat) | Real-time sentiment analysis stream with message brokers. |
 | **[dvwa-portfolio](./dvwa-portfolio)** | Security / Documentation | `Markdown` / `Python` | Comprehensive security research writeup for DVWA. |
+| **[security-cli-toolkit](./security-cli-toolkit)** | Security / DevSecOps | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat) | Multi-language offline security scanner: secret detection, git-history scan, Dockerfile linter. |
 | **[signbridge-ai](./signbridge-ai)** | CV / ML | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat) ![CV](https://img.shields.io/badge/CV-ff6b6b?style=flat) | BISINDO sign language translation using real-time computer vision. |
 | **[itb-stkom-research](./itb-stkom-research)** | Data Science / Research | `Orange` / `Python` | Academic research: campus management optimization (Marketing, HR, Ops) with classification. |
 | **[inji-cho](./inji-cho)** | Web / GIS | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat) ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat) | Hidden Shrine Catalog — vanilla JS + Leaflet + Vite. |
@@ -138,6 +139,7 @@ portfolio-showcase/
 ├── air-quality-gru-reset/    # GRU time-series research
 ├── sentiment-streaming/      # Redis-based NLP stream simulation
 ├── dvwa-portfolio/           # Security research documentation
+├── security-cli-toolkit/     # Multi-language offline security scanner (Go/Rust/Python)
 ├── signbridge-ai/            # BISINDO CV sign-language translation
 ├── itb-stkom-research/       # Academic data-science research
 ├── inji-cho/                 # Leaflet GIS web app
