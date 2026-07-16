@@ -1,0 +1,19 @@
+# Build output
+build/
+dist/
+
+# Compiled objects / binaries
+*.o
+*.a
+*.elf
+*.prx
+*.sfo
+PARAM.SFO
+EBOOT.PBP
+
+# Editor / OS cruft
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db

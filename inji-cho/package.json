@@ -1,0 +1,21 @@
+{
+  "name": "inji-cho",
+  "version": "1.0.0",
+  "description": "隠寺手帖 (Inji-cho) - Hidden Shrine Catalog",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "leaflet": "^1.9.4",
+    "leaflet.markercluster": "^1.5.3"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  },
+  "license": "MIT",
+  "author": "Afiq Andico Pangimpian (AFUCKINGCO)"
+}

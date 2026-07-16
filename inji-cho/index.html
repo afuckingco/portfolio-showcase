@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>隠寺手帖 | Inji-cho — Hidden Shrine Catalog</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+</head>
+<body>
+  <div id="app">
+    <aside id="sidebar">
+      <h1>隠寺手帖</h1>
+      <p class="subtitle">Inji-cho — Hidden Shrine Catalog</p>
+
+      <div class="toolbar">
+        <button id="btn-add-temple" class="primary">+ Add Temple</button>
+        <button id="theme-toggle">🌓</button>
+      </div>
+
+      <div class="stats-panel" id="stats-panel">
+        <div><span class="stat-value" id="stat-total">0</span><span class="stat-label">Total</span></div>
+        <div><span class="stat-value" id="stat-visited">0</span><span class="stat-label">Visited</span></div>
+        <div><span class="stat-value" id="stat-remaining">0</span><span class="stat-label">Remaining</span></div>
+        <div><span class="stat-value" id="stat-percent">0%</span><span class="stat-label">Progress</span></div>
+      </div>
+
+      <input type="search" id="search-input" placeholder="Search temples…" aria-label="Search temples" />
+
+      <label class="visually-hidden" for="filter-prefecture">Filter by prefecture</label>
+      <select id="filter-prefecture" aria-label="Filter by prefecture"><option value="">All Prefectures</option></select>
+      <label class="visually-hidden" for="filter-region">Filter by region</label>
+      <select id="filter-region" aria-label="Filter by region"><option value="">All Regions</option></select>
+      <label class="visually-hidden" for="filter-status">Filter by status</label>
+      <select id="filter-status" aria-label="Filter by status">
+        <option value="">All Statuses</option>
+        <option value="visited">Visited</option>
+        <option value="unvisited">Not Visited</option>
+        <option value="planned">Planned</option>
+      </select>
+
+      <div class="toolbar">
+        <button id="btn-fit-map">Fit Map</button>
+        <button id="btn-export">Export JSON</button>
+        <label class="button-like" for="import-file-input">Import JSON</label>
+        <input type="file" id="import-file-input" accept="application/json" style="display:none" />
+      </div>
+
+      <ul id="temple-list"></ul>
+    </aside>
+
+    <main id="map"></main>
+  </div>
+
+  <!-- Add/Edit Temple Modal -->
+  <div id="temple-modal" class="modal">
+    <div class="modal-content">
+      <h2>Temple Details</h2>
+      <form id="temple-form">
+        <label>Name
+          <input type="text" name="name" required />
+        </label>
+        <label>Prefecture
+          <input type="text" name="prefecture" id="field-prefecture" />
+        </label>
+        <label>Region
+          <input type="text" name="region" />
+        </label>
+        <label>Latitude
+          <input type="text" name="lat" id="field-lat" required />
+        </label>
+        <label>Longitude
+          <input type="text" name="lng" id="field-lng" required />
+        </label>
+        <label>Address
+          <input type="text" name="address" id="field-address" />
+        </label>
+        <label>Notes
+          <textarea name="notes" rows="3"></textarea>
+        </label>
+        <label>
+          <input type="checkbox" name="visited" style="width:auto; display:inline-block;" /> Visited
+        </label>
+
+        <button type="button" id="btn-use-map-click">📍 Pick on Map</button>
+
+        <div class="toolbar">
+          <button type="submit" class="primary">Save</button>
+          <button type="button" id="btn-cancel-form">Cancel</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <script type="module" src="/src/modules/main.js"></script>
+</body>
+</html>

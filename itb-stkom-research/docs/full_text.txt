@@ -1,0 +1,237 @@
+OPTIMASI  MANAJEMEN  MARKETING,  SDM,  & OPERASIONAL  
+ITB STIKOM  BALI  KAMPUS  ABIANSEMAL  
+
+Oleh:  
+AFIQ  ANDICO  PANGIMPIAN  (190030591)  
+
+INSTITUT  TEKNOLOGI  DAN  BISNIS  
+(ITB)  STIKOM  BALI  
+2025  
+
+
+OPTIMASI  MANAJEMEN  MARKETING,  SDM,  & OPERASIONAL  
+ITB STIKOM  BALI  KAMPUS  ABIANSEMAL  
+
+DIAJUKAN  SEBAGAI  SALAH  SATU  SYARAT  UNTUK MENCAPAI  GELAR  
+SARJANA  PROGRAM  STUDI  S1-SISTEM  INFORMASI  
+
+
+Oleh:  
+AFIQ  ANDICO  PANGIMPIAN  (190030591)  
+
+
+INSTITUT  TEKNOLOGI  DAN  BISNIS  
+(ITB)  STIKOM  BALI  
+2025  
+
+
+PENGESAHAN  TUGAS  AKHIR  
+OPTIMASI  MANAJEMEN  MARKETING,  SDM,  &  
+OPERASIONAL  ITB STIKOM  BALI  KAMPUS  ABIANSEMAL  
+
+Oleh:  
+AFIQ  ANDICO  PANGIMPIAN  (190030591)  
+
+Dosen  Pembimbing  Tanda  Tangan  Tanggal  
+
+Indrianto , S.Kom.,  M.Kom.  
+...........................  
+...................  
+
+Muhamad  Samsudin,  SE., MM.Kom .  
+...........................  
+...................  
+
+  
+
+Denpasar,  ...........................  
+
+Mengetahui,  
+Dekan  Fakultas  Informatika  dan Komputer  
+
+Ni Ketut  Dewi  Ari Jayanti,  S.T.,  M.Kom.  
+i  
+
+
+Halaman  ini sengaja  dikosongkan  
+
+
+PENGESAHAN  
+SIDANG  TUGAS  AKHIR  
+OPTIMASI  MANAJEMEN  MARKETING,  SDM,  &  
+OPERASIONAL  ITB STIKOM  BALI  KAMPUS  ABIANSEMAL  
+
+Oleh:  
+AFIQ  ANDICO  PANGIMPIAN  (190030591)  
+
+Dipertahankan  di depan  Tim  Dosen  Penguji  Tugas  Akhir  
+Program  Studi  Sistem  Informasi  ITB STIKOM  Bali  
+Pada  tanggal  03 September  2025  
+
+Tim  Dosen  Penguji  Tanda  Tangan  Tanggal  
+
+Indrianto , S.Kom.,  M.Kom.  
+...........................  
+...................  
+
+Ni Wayan  Deriani , SE., M.Kom  
+...........................  
+...................  
+
+Komang  Budiarta , S.Kom.,  M.T  
+...........................  
+...................  
+
+  
+
+Denpasar,  ...........................  
+
+Mengetahui,  
+Ketua  Program  Studi  Sistem  Informasi  
+
+Pande  Putu Gede  Putra  Pertama,  S.T.,  M.T.  
+iii  
+
+
+Halaman  ini sengaja  dikosongkan  
+
+
+PERNYATAAN  KEASLIAN  
+
+Saya  yang  bertanda  tangan  di bawah  ini:  
+NIM : 190030591  
+Nama  : afuckingco  afuckingco  
+Jenjang  Studi  : Strata  Satu (SI)  
+Program  Studi  : Sistem  Informasi  
+Tempat,  Tgl. Lahir  : Situbondo,  09 Juli 2001  
+Alamat  : BR/LINK.  PETANGAN  GEDE,  Denpasar,  Bali  
+NIK : 5171043112 010007  
+
+Menyatakan  bahwa  dalam  Tugas  Akhir  ini tidak  terdapat  karya  yang  pernah  diajukan  untuk  memperoleh  Sarjana  Komputer  (S.Kom ) di suatu  Perguruan  Tinggi,  dan sepanjang  pengetahuan  saya  tidak  terdapat  karya  atau pendapat  yang  pernah  ditulis  atau diterbitkan  oleh orang  lain, kecuali  yang  secara  tertulis  diacu  dalam  naskah  ini dan disebutkan  dalam  Daftar  Pusta ka.  
+
+
+Denpasar,  September 2025  
+
+
+(afuckingco  afuckingco)  
+
+
+v  
+
+
+Halaman  ini sengaja  dikosongkan  
+
+
+vii  
+OPTIMASI  MANAJEMEN  MARKETING,  SDM  &  
+OPERASIONAL  ITB STIKOM  BALI  KAMPUS  ABIANSEMAL  
+
+ABSTRAK  
+
+Agar  tetap  kompetitif,  universitas  di sektor  pendidikan  tinggi  harus  mengoptimalkan  manajemen  berbasis  data.  ITB STIKOM  Bali Kampus  Abiansemal  menghadapi  tantangan  dalam  meningkatkan  efektivitas  pemasaran,  kinerja  SDM,  dan efisiensi  operasional.  Penelitian  ini  menggunakan  metode  klasifikasi  data science  (K-Nearest  Neighbors,  Random  Forest,  Decision  Tree,  dan Support  Vector  Machine  (SVM))  pada  Orange  Data  Mining  Platform  untuk  mengidentifikasi  faktor  dominan  di ketiga  area tersebut.  Data  dikumpulkan  dari kampanye  pemasaran  di Instagram,  kinerja  staf  (produktivitas),  serta  pembelian  barang  dan anggaran  operasional.  Hasil  penelitian  menunjukkan  bahwa,  di bidang  pemasaran:  Konten  Reels  meningkatkan  keterlibatan  sebesar  71% (akurasi  model:  94%).  SDM:  Ketidakhadiran  merupakan  faktor  dominan  dalam  klasifikasi  kinerja  (akurasi  77%);  dan operasional:  13,6%  pembelian  diidentifikasi  sebagai  tidak  efisien  (dengan  potensi  penghematan  sebesar  Rp2,3  juta per bulan).  Penerapan  dashboard  Orange  Data  Mining  memberikan  rekomendasi  strategis  untuk:  Alokasi  anggaran  pemasaran  berbasis  Reels , Pelatihan  staf  yang  terfokus,  Penghematan  biaya  pengadaan . Penelitian  ini membuktikan  keefektifan  Orange  Data  Mining  sebagai  solusi  analitik  nonteknis  yang  terintegrasi  untuk  universitas.  
+
+Kata  kunci:  Manajemen  Marketing , Sumber  Daya  Manusia,  Efisiensi  Operasional,  Data  Science,  Klasifikasi,  Platform  Orange  Data  Mining , ITB STIKOM  Bali.  
+
+
+OPTI MIZATION  OF MARKETING,  HUMAN  RESOURCES  &  
+OPERA TIONAL  MANAGEMENT  AT ITB STIKOM  BALI ,  
+ABIANSEMAL  CAMPUS  
+
+ABSTRACT  
+
+In order  to remain  competitive,  universities  in the higher  education  sector  must  optimize  data-driven  management.  The ITB STIKOM  Bali Abiansemal  Campus  is facing  challenges  in improving  marketing  effectiveness,  HR  performance,  and operational  efficiency.  This study  uses  data science  classification  methods  (K-Nearest  Neighbors,  Random  Forest,  Decision  Tree,  and Support  Vector  Machine  (SVM))  on the Orange  Data  Mining  Platform  to identify  the dominant  factors  in these  three  areas.  Data  was collected  from marketing  campaigns  on Instagram,  staff performance  (productivity),  and the purchase  of goods  and the operational  budget.  The results  showed  that, in the marketing  field:  Content  Reels increased  engagement  by 71% (model  accuracy:  94%).  HR: Absenteeism  was the dominant  factor  in performance  classification  (77%  accuracy);  and operations:  13.6%  of purchases  were  identified  as inefficient  (with  the potential  to save  IDR 2.3 million  per month).  Implementing  the Orange  Data  Mining  dashboard  provided  strategic  recommendations  for: Reels -based  marketing  budget  allocation , Focused  staff  training , Procurement  cost savings . This research  proves  the effectiveness  of Orange  Data  Mining  as an integrated,  nontechnical  analytics  solution  for universities.  
+
+Keywords : Marketing  Management,  Human  Resources,  Operational  Efficiency,  Data  Science,  Classification,  Orange  Platform,  ITB STIKOM  Bali.  
+
+
+Halaman  ini sengaja  dikosongkan  
+
+
+KATA  PENGANTAR  
+
+Berkat  Rahmat  Allah  S.W.T . Tuhan  Yang  Maha  Esa, penulis  dapat  menyelesaikan  Tugas  Akhir  yang  berjudul  “OPTIMASI  MANAJEMEN  MARKETING,  SDM,  & OPERASIONAL  ITB STIKOM  BALI  KAMPUS  ABIANSEMAL ” sesuai  dengan  waktu  yang telah  direncanakan.  Selanjutnya  penulis  menyampaikan  Terima  Kasih  kepada:  
+1. Rektor  ITB STIKOM  Bali Bapak  Dr. Dadang  Hermawan,  S.E.,  M.M.,  Ak.  
+2. Bapak  Dr. Roy Rudolf  Huizen,  S.T.,  M.T. Selaku  Wakil  Rektor  I.  
+3. Ibu Dr. Ni Luh Putri Srinadi,  SE., MM.Kom.  Selaku  Wakil  Rektor  II.  
+4. Bapak  Yudi Agusta,  Ph.D.  Selaku  Wakil  Rektor  III.  
+5. Ibu Ni Ketut  Dewi  Ari Jayanti,  S.T.,  M.Kom.  Selaku  Dekan  Fakultas  Informatika  dan Komputer  ITB STIKOM  Bali.  
+6. Bapak  Pande  Putu Gede  Putra  Pertama,  S.T.,  M.T. Selaku  Ketua  Program  Studi  S1-Sistem  Informasi  ITB STIKOM  Bali.  
+7. Bapak  Dr. Hafidul  Muhsin,  S.Pd.I.,  M.Pd.I.,  M.Pd.,  M.Hi.,  M.Si.,  CHt. Selaku  Direktur  Kampus  Abiansemal.  
+8. Bapak  Indrianto,  S.Kom.,  M.Kom.  Selaku  Dosen  Pembimbing  Utama  yang  telah  membimbing  penulis  selama  melaksanakan  Tugas  Akhir.  
+9. Bapak  Muhamad  Samsudin,  SE., MM.Kom.  Selaku  Dosen  Pembimbing  Kedua  yang  telah  membimbing  penulis  selama  melaksanakan  Tugas  Akhir.  
+10. Kedua  Orangtua  saya ; Dr. Wardikan  & Andriawati , SE., serta semua  teman  dan berbagai  pihak  yang  memberikan  dukungan  dan bantuan  kepada  Penulis.  
+
+Semoga  hasil penulisan  Tugas  Akhir  ini bermanfaat  bagi pihak  yang  berkepentingan.  
+Denpasar,  September  2025  
+
+
+afuckingco  
+
+
+Halaman  ini sengaja  dikosongkan  
+
+
+DAFTAR  ISI  
+
+PENGESAHAN TUGAS  AKHIR  ................................ ................................ ................................ i  
+PENGESAHAN SIDANG TUGAS  AKHIR  ................................ ................................ ................................ iii  
+PERNYATAAN KEASLIAN  ................................ ................................ ................................ v  
+ABSTRAK  ................................ ................................ ................................ ................................ vii  
+ABSTRACT  ................................ ................................ ................................ ................................ ix  
+KATA PENGANTAR  ................................ ................................ ................................ ................................ xi  
+DAFTAR ISI  ................................ ................................ ................................ ................................ .. xiii  
+DAFTAR TABEL  ................................ ................................ ................................ ................................ ................................ .. xv  
+DAFTAR GAMBAR  ................................ ................................ ................................ ................................ ................................ .. xvii  
+DAFTAR RUMUS  ................................ ................................ ................................ ................................ ................................ .. xix  
+DAFTAR LAMPIRAN  ................................ ................................ ................................ ................................ ................................ .. xxi  
+BAB I PENDAHULUAN  ................................ ................................ ................................ ................................ ................................  1  
+1.1 Latar  Belakang  ................................ ................................ ................................ ................................ ................................  1  
+1.2 Rumusan  Masalah  ................................ ................................ ................................ ................................ ................................  4  
+1.3 Tujuan  Penelitian  ................................ ................................ ................................ ................................ ................................  4  
+1.4 Manfaat  Penelitian  ................................ ................................ ................................ ................................ ................................  4  
+1.5 Ruang  Lingkup  Penelitian  ................................ ................................ ................................ ................................ ................................  5  
+1.6 Sistematika  Penulisan  ................................ ................................ ................................ ................................ ................................ ................................  5  
+BAB II TINJAUAN  PUSTAKA  ................................ ................................ ................................ ................................ ................................ ................................ ..........  7  
+2.1 State  of The Art................................ ................................ ................................ ................................ ................................ ................................ ...............  7  
+2.2  Data Science  dalam Pendidikan Tinggi  ................................ ................................ ................................ ................................ ................................ ................................ ........  10  
+2.3 Kelasifikasi untuk Digital Marketing  ................................ ................................ ................................ ................................ ................................ ................................ ................  11  
+2.4 Analisis SDM Berbasis Klasifikasi ................................ ................................ ................................ ................................ ................................ ................................ .................  12  
+2.5 Klasifikasi untuk Efisiensi Operasional  ................................ ................................ ................................ ................................ ................................ ................................ ................................ .................  12  
+2.6  Peran Platform Orange Data Mining dalam Analisis Data  .............  ................................ ................................ ................................ ................................ ................................ ................................ ................................  13  
+2.7 Kesenjangan Penelitian  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................  13  
+BAB III METODE PENELITIAN  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ..... 15  
+3.1 Alur Penelitian ................................ ................................ ................................ ................................ ................................ ................................ ................................ ...............  15  
+3.2 Waktu  dan Tempat  Penelitian  ................................ ................................ ................................ ................................ ................................ ................................ ................................ .......................  18  
+3.3 Alat dan Bahan Penelitian  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................  18  
+3.4 Metode  Penelitian  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................  19  
+3.5 Proses  Analisis Data  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................  20  
+3.6 Analisis Data  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................  23  
+3.7 Validasi Hasil  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................  23  
+3.8 Etika Penelitian  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................  24  
+BAB IV HASIL DAN PEMBAHASAN  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................  25  
+4.1 Deskripsi Dataset dan Alur Kerja  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................  25  
+4.2 Implementasi Platform Orange Data Mining  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................  30  
+4.3 Hasil Klasifikasi per Bidang  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................  30  
+4.4 Evaluasi Performa Model  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................  30  
+4.5 Implementasi Strategi Manajerial Berbasis Model Klasifikasi  .................  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................  80  
+4.6 Penerapan Enkripsi Data Kinerja Staf  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................  81  
+4.7 Analisis SWOT Implementasi Model Klasifikasi ................................ ....  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................  86  
+4.8 Analisis Kesenjangan (Gap Analysis)  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................  88  
+4.9 Content Calendar untuk Strategi Marketing  ................................ .................  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................  89  
+BAB V PENUTUP  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................  91  
+5.1 Kesimpulan  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................  91  
+5.2 Keterbatasan Penelitian  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................  94  
+5.3 Saran  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................  94  
+DAFTAR  PUSTAKA  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................  95  
+LAMPIRAN  ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................ ................................  99  
+Lampiran 1 Data Karyawan ITB STIKOM Bali Kampus Abiansemal  ....  99  
+Lampiran 2 Dataset Marketing Instagram Campaign  .........................  101  
+Lampiran 3 Dataset Operasional Pembelian Barang  .........................  104  
+Lampiran 4 Dataset SDM Kinerja Karyawan  ................................ ......  107  
+Lampiran 5 Rekap Kehadiran Periode 1 -28 Februari 2025  ................  109  
+Lampiran 6 Rekap Kehadiran Periode 1 -31 Maret 2025  ....................  110  
+Lampiran 7 Rekap Kehadiran Periode 1 -31 April 2025  ......................  111  
+Lampiran 8 Target Tugas Karyawan Bulan Februari -April 2025  .........  112  
+Lampiran 9 Bukti Harga Pasar  ................................ ...........................  113  
+Lampiran 10 Data Penurunan CAMABA Periode 2021 -2025 (April)  ...  119  
+Lampiran 11Surat Ijin Penelitian  ................................ ........................  120

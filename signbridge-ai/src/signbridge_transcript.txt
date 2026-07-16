@@ -1,0 +1,5 @@
+
+=== Session 2026-06-10 17:25:36 ===
+  [maaf, baik, selamat_malam, selamat_pagi, bisa_ulangi, nama_saya]  →  Maaf, baik, selamat malam, selamat pagi, bisa ulangi, nama saya.
+  [terima_kasih, selamat_malam, halo, terima_kasih, halo, tidak, saya_tidak_mengerti, baik]  →  Terima kasih, selamat malam, halo, tapi saya tidak mengerti.
+  [tidak, saya_tidak_mengerti, terima_kasih, selamat_malam, terima_kasih, tidak]  →  Tidak, saya tidak mengerti, terima kasih, selamat malam.

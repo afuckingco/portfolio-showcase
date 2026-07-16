@@ -1,0 +1,11 @@
+item,qty,unit_price,market_price,efficiency_label
+Komputer,1,9000000,8013000,kurang_efisien
+Laptop,1,4500000,2731300,kurang_efisien
+CCTV,1,500000,333025,kurang_efisien
+Keramik,1,500000,550000,efisien
+Kertas HVS,1,300000,319000,efisien
+Pulpen,100,5000,4500,efisien
+Spidol,50,7500,7000,efisien
+Stapler,20,150000,140000,efisien
+Tape,30,20000,19000,efisien
+Binder Clip,500,2500,2400,efisien

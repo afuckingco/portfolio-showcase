@@ -42,10 +42,14 @@ Modules Active: 6 | Architecture: Modular Monorepo | Status: OPERATIONAL
 |------------|--------|-------|----------|
 | **[fraud-detection](./fraud-detection)** | FinTech / Security | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat) | XGBoost classification with interactive Streamlit dashboard for real-time transaction scoring. |
 | **[bali-tourism-mlops](./bali-tourism-mlops)** | Time-Series / MLOps | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat) ![LSTM](https://img.shields.io/badge/LSTM-0075ca?style=flat) | Deep learning forecasting for regional tourism arrival trends with automated retraining pipelines. |
-| **[kopikita](./kopikita)** | Business Analytics | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat) ![Prophet](https://img.shields.io/badge/Prophet-1f77b4?style=flat) | Café sales forecasting and RFM (Recency, Frequency, Monetary) customer segmentation. |
-| **[air-quality-gru-reset](./air-quality-gru-reset)** | Environmental / Research | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat) ![GRU](https://img.shields.io/badge/GRU-0075ca?style=flat) | PM2.5 air quality prediction utilizing Gated Recurrent Units with adaptive reset mechanisms. |
-| **[sentiment-streaming](./sentiment-streaming)** | NLP / Real-time | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat) | Real-time sentiment analysis stream simulation using message brokers and lightweight NLP models. |
-| **[dvwa-portfolio](./dvwa-portfolio)** | Security / Documentation | `Markdown` / `Python` | Comprehensive security research writeup and exploitation methodology for Damn Vulnerable Web App. |
+| **[kopikita](./kopikita)** | Business Analytics | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat) ![Prophet](https://img.shields.io/badge/Prophet-1f77b4?style=flat) | Café sales forecasting and RFM customer segmentation. |
+| **[air-quality-gru-reset](./air-quality-gru-reset)** | Environmental / Research | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat) ![GRU](https://img.shields.io/badge/GRU-0075ca?style=flat) | PM2.5 air quality prediction with GRU + adaptive reset. |
+| **[sentiment-streaming](./sentiment-streaming)** | NLP / Real-time | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat) | Real-time sentiment analysis stream with message brokers. |
+| **[dvwa-portfolio](./dvwa-portfolio)** | Security / Documentation | `Markdown` / `Python` | Comprehensive security research writeup for DVWA. |
+| **[signbridge-ai](./signbridge-ai)** | CV / ML | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat) ![CV](https://img.shields.io/badge/CV-ff6b6b?style=flat) | BISINDO sign language translation using real-time computer vision. |
+| **[itb-stkom-research](./itb-stkom-research)** | Data Science / Research | `Orange` / `Python` | Academic research: campus management optimization (Marketing, HR, Ops) with classification. |
+| **[inji-cho](./inji-cho)** | Web / GIS | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat) ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat) | Hidden Shrine Catalog — vanilla JS + Leaflet + Vite. |
+| **[2TUFF.wav](./2TUFF.wav)** | Embedded / Multimedia | `C` / `PSP` | PSP homebrew WAV player with bugfixes + features (shuffle, queue, crossfade). |
 
 ---
 
@@ -168,9 +172,11 @@ portfolio-showcase/
   </a>
 </div>
 
-## 🌐 Web Projects — Static Business Sites
+## 🌐 Web Projects
 
-Five self-contained HTML/CSS business websites under `restaurant/`, `coffee-shop/`, `minimarket/`, `apotek/`, and `perusahaan/`. Each is a single `index.html` with inline CSS — no build step, no frameworks. Open `small-business.html` for a navigation hub.
+### Static Business Sites — HTML/CSS only (no build, no frameworks)
+
+Five self-contained `index.html` sites under `restaurant/`, `coffee-shop/`, `minimarket/`, `apotek/`, `perusahaan/`. Open `small-business.html` for a navigation hub.
 
 | Folder | Business | Type |
 |--------|----------|------|
@@ -179,7 +185,13 @@ Five self-contained HTML/CSS business websites under `restaurant/`, `coffee-shop
 | [`minimarket/`](minimarket/index.html) | Toko Kita | Minimarket |
 | [`apotek/`](apotek/index.html) | Apotek Sehat Farma | Apotek |
 | [`perusahaan/`](perusahaan/index.html) | PT. Cipta Solusi Nusantara | Perusahaan IT |
-| [`kecap-manalagi-dewata/`](kecap-manalagi-dewata/) | Kecap Manalagi Dewata | E-commerce (Next.js) |
+
+### Full-stack / GIS
+
+| Folder | Business | Stack | Type |
+|--------|----------|-------|------|
+| [`kecap-manalagi-dewata/`](kecap-manalagi-dewata/) | Kecap Manalagi Dewata | Next.js | E-commerce |
+| [`inji-cho/`](inji-cho/) | Inji-cho — Hidden Shrine Catalog | Vanilla JS + Leaflet + Vite | GIS / Maps |
 
 ---
 

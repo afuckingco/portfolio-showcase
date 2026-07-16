@@ -1,0 +1,113 @@
+# ══════════════════════════════════════════════
+#  SignBridge AI — .gitignore
+# ══════════════════════════════════════════════
+
+# ── Dataset & video (sangat besar) ────────────
+data/raw/
+data/processed/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# ── Model files (bisa sangat besar) ───────────
+# Uncomment baris di bawah jika model > 100MB:
+# models/*.h5
+# models/*.pkl
+# models/*.pt
+# models/*.pth
+# Checkpoint sementara (bukan model final)
+src/models/
+**/best_checkpoint.h5
+
+# ── Python ────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+MANIFEST
+
+# ── Virtual Environment ───────────────────────
+venv/
+env/
+.venv/
+.env/
+ENV/
+Lib/
+Scripts/
+Include/
+# Anaconda env
+conda-env/
+.conda/
+
+# ── Secrets & API Keys ────────────────────────
+.env
+.env.local
+.env.*.local
+*.env
+secrets.py
+config_local.py
+
+# ── Jupyter Notebook ──────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── IDE & Editor ──────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# ── Windows ───────────────────────────────────
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ── macOS ─────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ── Linux ─────────────────────────────────────
+*~
+.fuse_hidden*
+.Trash-*
+
+# ── Log & output files ────────────────────────
+*.log
+*.txt.bak
+signbridge_transcript.txt
+training_report.txt
+logs/
+
+# ── Numpy & data files ────────────────────────
+# Uncomment jika tidak mau include data rekaman:
+# src/data/
+# *.npy
+
+# ── Temporary files ───────────────────────────
+*.tmp
+*.temp
+*.bak
+*.orig
+tmp/
+temp/
+python

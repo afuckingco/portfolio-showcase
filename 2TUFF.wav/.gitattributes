@@ -1,0 +1,10 @@
+# Normalize line endings: store as LF, check out as LF on every platform.
+# Important because build.sh and the toolchain run on Linux/WSL, where CRLF
+# would break the shebang and shell parsing.
+* text=auto eol=lf
+
+# Explicit binaries (never touch line endings)
+*.png  binary
+*.PNG  binary
+*.PBP  binary
+*.pbp  binary
