@@ -4,15 +4,16 @@
 └─$ cat README.md
 ```
 
-# 📊 Portfolio Showcase — ML & Data Science Monorepo
+# 📊 Portfolio Showcase
 
-> A consolidated repository housing end-to-end machine learning pipelines, time-series forecasting, and advanced analytics projects. Designed to demonstrate scalable data architecture, model deployment, and rigorous evaluation across diverse real-world domains.
+> A consolidated multi-discipline portfolio: Machine Learning, Data Science, Security, Web, Embedded Systems, and GIS projects. Demonstrating end-to-end pipelines — from data ingestion and model training to deployment and interactive dashboards.
 
 <div align="center">
 
 [![Status](https://img.shields.io/badge/STATUS-CONSOLIDATED-a6e3a1?style=for-the-badge&labelColor=1e1e2e)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)]()
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![License](https://img.shields.io/badge/License-MIT-89b4fa?style=for-the-badge&labelColor=1e1e2e)](LICENSE)
 
 </div>
@@ -26,7 +27,7 @@
 
 ```text
 [Pipeline] Data Ingestion → Feature Engineering → Model Training (XGBoost/LSTM/GRU/Prophet) → Evaluation → Dashboard/API Deployment
-Modules Active: 6 | Architecture: Modular Monorepo | Status: OPERATIONAL
+Modules Active: 15 | Architecture: Modular Monorepo | Status: OPERATIONAL
 ```
 
 ---
@@ -53,6 +54,29 @@ Modules Active: 6 | Architecture: Modular Monorepo | Status: OPERATIONAL
 
 ---
 
+## 🌐 Web Projects
+
+### Static Business Sites — HTML/CSS only (no build, no frameworks)
+
+Five self-contained `index.html` sites under `restaurant/`, `coffee-shop/`, `minimarket/`, `apotek/`, `perusahaan/`. Open `small-business.html` for a navigation hub.
+
+| Folder | Business | Type |
+|--------|----------|------|
+| [`restaurant/`](restaurant/index.html) | Warung Rasa Nusantara | Restoran |
+| [`coffee-shop/`](coffee-shop/index.html) | Kopi Senja | Kedai Kopi |
+| [`minimarket/`](minimarket/index.html) | Toko Kita | Minimarket |
+| [`apotek/`](apotek/index.html) | Apotek Sehat Farma | Apotek |
+| [`perusahaan/`](perusahaan/index.html) | PT. Cipta Solusi Nusantara | Perusahaan IT |
+
+### Full-stack / GIS
+
+| Folder | Business | Stack | Type |
+|--------|----------|-------|------|
+| [`kecap-manalagi-dewata/`](kecap-manalagi-dewata/) | Kecap Manalagi Dewata | Next.js | E-commerce |
+| [`inji-cho/`](inji-cho/) | Inji-cho — Hidden Shrine Catalog | Vanilla JS + Leaflet + Vite | GIS / Maps |
+
+---
+
 ```console
 ┌──(test㉿afuckingco)-[~/projects/portfolio-showcase]
 └─$ htop --stack
@@ -62,10 +86,10 @@ Modules Active: 6 | Architecture: Modular Monorepo | Status: OPERATIONAL
 
 | Layer | Choice | Rationale |
 |-------|--------|-----------|
-| **Core Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 3.9+ | Universal standard for data science, scripting, and backend APIs. |
+| **Core Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 3.9+ · ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) · ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | Multi-paradigm: data science, embedded systems, and web. |
 | **Data Manipulation** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) / ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) | High-performance data wrangling and numerical computation. |
 | **Machine Learning** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) / ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | Robust classical ML algorithms and flexible deep learning architectures. |
-| **Deployment / UI** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) / ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) | Rapid API development and interactive data application prototyping. |
+| **Deployment / UI** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) / ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) / ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) | Rapid API development, interactive dashboards, and full-stack web. |
 | **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) / ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | Containerized reproducibility and high-speed in-memory data streaming. |
 
 ---
@@ -82,17 +106,17 @@ Modules Active: 6 | Architecture: Modular Monorepo | Status: OPERATIONAL
 git clone https://github.com/afuckingco/portfolio-showcase.git
 cd portfolio-showcase
 
-# 2. Create and activate virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# 3. Install global dependencies (or navigate to a specific subproject)
-pip install -r requirements.txt
-
-# 4. Navigate to a specific project (e.g., fraud-detection)
+# 2. Navigate to a specific project (e.g., fraud-detection)
 cd fraud-detection
 
-# 5. Run the project-specific startup script
+# 3. Create and activate virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\\Scripts\\activate
+
+# 4. Install project-specific dependencies
+pip install -r requirements.txt
+
+# 5. Run the project
 python app.py  # or streamlit run dashboard.py
 ```
 > **⚠️ Note:** Datasets are either synthetic, anonymized, or linked via external sources in each subproject's respective `README.md` to comply with privacy standards and repository size limits.
@@ -114,8 +138,18 @@ portfolio-showcase/
 ├── air-quality-gru-reset/    # GRU time-series research
 ├── sentiment-streaming/      # Redis-based NLP stream simulation
 ├── dvwa-portfolio/           # Security research documentation
-├── shared/                   # Common utilities (data loaders, metrics)
-├── requirements.txt          # Global Python dependencies
+├── signbridge-ai/            # BISINDO CV sign-language translation
+├── itb-stkom-research/       # Academic data-science research
+├── inji-cho/                 # Leaflet GIS web app
+├── 2TUFF.wav/                # PSP homebrew WAV player (C)
+├── restaurant/               # Static site — Warung Rasa Nusantara
+├── coffee-shop/              # Static site — Kopi Senja
+├── minimarket/               # Static site — Toko Kita
+├── apotek/                   # Static site — Apotek Sehat Farma
+├── perusahaan/               # Static site — PT. Cipta Solusi Nusantara
+├── kecap-manalagi-dewata/    # Next.js e-commerce
+├── small-business.html       # Navigation hub for static sites
+├── LICENSE                   # MIT License
 └── README.md                 # Master documentation (this file)
 ```
 
@@ -134,6 +168,16 @@ portfolio-showcase/
 
 ---
 
+## 📦 Releases
+
+| Version | Date | Highlights |
+|---------|------|------------|
+| **[v1.0.0](https://github.com/afuckingco/portfolio-showcase/releases/tag/v1.0.0)** | 2026-07-16 | Initial consolidated release — 15 projects (ML, Security, Web, Embedded, GIS) merged into a single monorepo. |
+
+> Releases track stable snapshots of the monorepo. Each subproject maintains its own changelog within its directory.
+
+---
+
 ```console
 ┌──(test㉿afuckingco)-[~/projects/portfolio-showcase]
 └─$ echo $ROADMAP
@@ -145,6 +189,7 @@ portfolio-showcase/
 - [ ] **CI/CD Integration**: GitHub Actions workflows to automatically run unit tests and linting on PRs for each subdirectory.
 - [ ] **Model Registry API**: A centralized FastAPI gateway to serve predictions from all deployed models in this showcase.
 - [ ] **Enhanced Documentation**: Auto-generated API docs (Swagger/OpenAPI) for all deployable services.
+- [ ] **GitHub Pages**: Deploy static business sites + inji-cho live via GitHub Pages.
 
 ---
 
@@ -155,43 +200,19 @@ portfolio-showcase/
 
 ## 👤 Author
 
-**afuckingco** — Data scientist, machine learning engineer, and systems architect.
+**afuckingco** — Security researcher, AI/ML engineer, and systems architect.
 
 <div align="center">
   <a href="https://github.com/afuckingco" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.github.com/afuckingco" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/afuckingco" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/afiq-andico" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:anotherwaltzcompany@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-## 🌐 Web Projects
-
-### Static Business Sites — HTML/CSS only (no build, no frameworks)
-
-Five self-contained `index.html` sites under `restaurant/`, `coffee-shop/`, `minimarket/`, `apotek/`, `perusahaan/`. Open `small-business.html` for a navigation hub.
-
-| Folder | Business | Type |
-|--------|----------|------|
-| [`restaurant/`](restaurant/index.html) | Warung Rasa Nusantara | Restoran |
-| [`coffee-shop/`](coffee-shop/index.html) | Kopi Senja | Kedai Kopi |
-| [`minimarket/`](minimarket/index.html) | Toko Kita | Minimarket |
-| [`apotek/`](apotek/index.html) | Apotek Sehat Farma | Apotek |
-| [`perusahaan/`](perusahaan/index.html) | PT. Cipta Solusi Nusantara | Perusahaan IT |
-
-### Full-stack / GIS
-
-| Folder | Business | Stack | Type |
-|--------|----------|-------|------|
-| [`kecap-manalagi-dewata/`](kecap-manalagi-dewata/) | Kecap Manalagi Dewata | Next.js | E-commerce |
-| [`inji-cho/`](inji-cho/) | Inji-cho — Hidden Shrine Catalog | Vanilla JS + Leaflet + Vite | GIS / Maps |
 
 ---
 
