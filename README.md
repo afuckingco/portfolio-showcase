@@ -168,6 +168,20 @@ portfolio-showcase/
   </a>
 </div>
 
+## 🌐 Web Projects — Static Business Sites
+
+Five self-contained HTML/CSS business websites under `restaurant/`, `coffee-shop/`, `minimarket/`, `apotek/`, and `perusahaan/`. Each is a single `index.html` with inline CSS — no build step, no frameworks. Open `small-business.html` for a navigation hub.
+
+| Folder | Business | Type |
+|--------|----------|------|
+| [`restaurant/`](restaurant/index.html) | Warung Rasa Nusantara | Restoran |
+| [`coffee-shop/`](coffee-shop/index.html) | Kopi Senja | Kedai Kopi |
+| [`minimarket/`](minimarket/index.html) | Toko Kita | Minimarket |
+| [`apotek/`](apotek/index.html) | Apotek Sehat Farma | Apotek |
+| [`perusahaan/`](perusahaan/index.html) | PT. Cipta Solusi Nusantara | Perusahaan IT |
+
+---
+
 > *Data without context is noise. Models without deployment are just math. This is the bridge between the two.*
 
 ```console
