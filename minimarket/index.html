@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Toko Kita – Belanja Kebutuhan Sehari-hari, Tanpa Ribet">
+<title>Toko Kita • Minimarket</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏪</text></svg>">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;font-family:'Segoe UI',system-ui,sans-serif}
+body{background:#f0f4f8;color:#1e293b;line-height:1.6}
+.container{max-width:1100px;margin:0 auto;padding:0 20px}
+/* nav */
+nav{background:#1e3a5f;padding:15px 0;position:sticky;top:0;z-index:10;box-shadow:0 2px 8px rgba(0,0,0,.15)}
+nav .container{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap}
+nav h1{color:#fff;font-size:1.5rem}
+nav h1 span{color:#60a5fa}
+nav a{color:#cbd5e1;text-decoration:none;margin-left:20px;font-size:.95rem}
+nav a:hover{color:#fff}
+/* hero */
+.hero{background:linear-gradient(135deg,#1e3a5f,#2563eb);color:#fff;text-align:center;padding:80px 20px}
+.hero h2{font-size:2.5rem;margin-bottom:10px}
+.hero p{font-size:1.1rem;opacity:.9;max-width:600px;margin:0 auto}
+/* sections */
+section{padding:60px 20px}
+section h3{font-size:1.8rem;margin-bottom:30px;text-align:center;color:#1e3a5f}
+/* grid categories */
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:20px}
+.category-card{background:#fff;border-radius:12px;padding:25px 15px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,.08);transition:transform .2s}
+.category-card:hover{transform:translateY(-4px)}
+.category-card .emoji{font-size:2.5rem;display:block;margin-bottom:10px}
+.category-card h4{font-size:.95rem;color:#334155}
+/* about */
+.about{background:#fff}
+.about p{max-width:750px;margin:0 auto;text-align:center;color:#475569}
+/* info bar */
+.info-bar{display:flex;flex-wrap:wrap;gap:30px;justify-content:center;margin-top:30px}
+.info-item{text-align:center}
+.info-item .label{font-weight:600;color:#1e3a5f;display:block}
+.info-item .val{color:#64748b}
+/* contact */
+.contact{background:#e2e8f0}
+.contact form{max-width:500px;margin:0 auto}
+.contact input,.contact textarea{width:100%;padding:12px;margin-bottom:15px;border:1px solid #cbd5e1;border-radius:8px;font-size:1rem}
+.contact textarea{height:120px;resize:vertical}
+.contact button{background:#1e3a5f;color:#fff;border:none;padding:14px 40px;border-radius:8px;font-size:1rem;cursor:pointer;transition:background .2s}
+.contact button:hover{background:#2563eb}
+.map{width:100%;height:300px;border:0;border-radius:12px;margin-bottom:15px}
+/* footer */
+footer{background:#0f172a;color:#94a3b8;text-align:center;padding:25px 20px;font-size:.9rem}
+footer strong{color:#fff}
+</style>
+</head>
+<body>
+<nav>
+<div class="container">
+<h1><span>Toko</span> Kita</h1>
+<div>
+<a href="#home">Beranda</a>
+<a href="#kategori">Kategori</a>
+<a href="#tentang">Tentang</a>
+<a href="#kontak">Kontak</a>
+</div>
+</div>
+</nav>
+
+<section class="hero" id="home">
+<div class="container">
+<h2>🏪 Belanja Kebutuhan Sehari-hari</h2>
+<p>Tanpa Ribet. Harga Bersahabat. Lengkap & Terpercaya.</p>
+</div>
+</section>
+
+<section id="kategori">
+<div class="container">
+<h3>📦 Kategori Produk</h3>
+<div class="grid">
+<div class="category-card"><span class="emoji">🍚</span><h4>Sembako</h4></div>
+<div class="category-card"><span class="emoji">🥤</span><h4>Minuman</h4></div>
+<div class="category-card"><span class="emoji">🍪</span><h4>Snacks</h4></div>
+<div class="category-card"><span class="emoji">🧹</span><h4>Household</h4></div>
+<div class="category-card"><span class="emoji">🧴</span><h4>Personal Care</h4></div>
+<div class="category-card"><span class="emoji">🧊</span><h4>Frozen Food</h4></div>
+<div class="category-card"><span class="emoji">🥖</span><h4>Bakery</h4></div>
+<div class="category-card"><span class="emoji">✏️</span><h4>Stationery</h4></div>
+</div>
+</div>
+</section>
+
+<section class="about" id="tentang">
+<div class="container">
+<h3>Tentang Toko Kita</h3>
+<p>Berdiri sejak 2018, Toko Kita hadir sebagai solusi belanja cepat dan lengkap untuk masyarakat sekitar. Kami menyediakan berbagai kebutuhan pokok, minuman, makanan ringan, hingga perlengkapan rumah tangga dengan harga yang terjangkau dan pelayanan ramah.</p>
+<div class="info-bar">
+<div class="info-item"><span class="label">🕐 Jam Buka</span><span class="val">07:00 – 22:00</span></div>
+<div class="info-item"><span class="label">📍 Lokasi</span><span class="val">Jl. Merdeka No. 123, Denpasar</span></div>
+<div class="info-item"><span class="label">📞 Telepon</span><span class="val">0812-3456-7890</span></div>
+</div>
+</div>
+</section>
+
+<section class="contact" id="kontak">
+<div class="container">
+<h3>📬 Hubungi Kami</h3>
+<iframe class="map" src="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Lokasi Toko Kita"></iframe>
+<form method="POST" action="">
+<input type="text" name="nama" placeholder="Nama Anda" required>
+<input type="email" name="email" placeholder="Email" required>
+<textarea name="pesan" placeholder="Pesan atau pertanyaan..." required></textarea>
+<button type="submit">Kirim Pesan</button>
+</form>
+</div>
+</section>
+
+<footer>
+<div class="container">
+<p>© 2026 <strong>Toko Kita</strong> — Belanja Mudah, Hidup Lebih Praktis.</p>
+</div>
+</footer>
+</body>
+</html>

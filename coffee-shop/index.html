@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Kopi Senja - Kopi khas dengan suasana cozy dan rasa yang autentik.">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>☕</text></svg>">
+    <title>Kopi Senja</title>
+    <style>
+        :root {
+            --dark-brown: #3E2723;
+            --cream: #FFF8E1;
+            --amber: #FFB300;
+            --light-brown: #5D4037;
+        }
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--dark-brown);
+            background-color: var(--cream);
+        }
+        a {
+            text-decoration: none;
+            color: var(--dark-brown);
+        }
+        nav {
+            background-color: var(--dark-brown);
+            padding: 1rem;
+        }
+        nav ul {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            list-style: none;
+        }
+        nav a {
+            color: var(--cream);
+            font-weight: bold;
+            transition: color 0.3s;
+        }
+        nav a:hover {
+            color: var(--amber);
+        }
+        header {
+            background: linear-gradient(rgba(62,39,35,0.8), rgba(62,39,35,0.7)), url('https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80') center/cover no-repeat;
+            color: var(--cream);
+            text-align: center;
+            padding: 5rem 1rem;
+        }
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        }
+        header p {
+            font-size: 1.2rem;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        section {
+            padding: 3rem 1rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .menu-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+        .menu-item {
+            background: var(--cream);
+            border-radius: 10px;
+            padding: 1.5rem;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: transform 0.3s;
+        }
+        .menu-item:hover {
+            transform: translateY(-5px);
+        }
+        .menu-item emoji {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            display: block;
+        }
+        .menu-item h3 {
+            color: var(--dark-brown);
+            margin-bottom: 0.5rem;
+        }
+        .menu-item p {
+            color: var(--light-brown);
+            font-size: 0.9rem;
+        }
+        .atmosphere {
+            background: var(--cream);
+            border-radius: 10px;
+            padding: 2rem;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .contact-form {
+            background: var(--cream);
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .contact-form div {
+            margin-bottom: 1.5rem;
+        }
+        .contact-form label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: bold;
+            color: var(--dark-brown);
+        }
+        .contact-form input,
+        .contact-form textarea {
+            width: 100%;
+            padding: 0.75rem;
+            border: 1px solid var(--light-brown);
+            border-radius: 5px;
+            font-family: inherit;
+            font-size: 1rem;
+        }
+        .contact-form button {
+            background: var(--dark-brown);
+            color: var(--cream);
+            border: none;
+            padding: 0.75rem 1.5rem;
+            border-radius: 5px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        .contact-form button:hover {
+            background: var(--amber);
+            color: var(--dark-brown);
+        }
+        footer {
+            background-color: var(--dark-brown);
+            color: var(--cream);
+            text-align: center;
+            padding: 1.5rem;
+            font-size: 0.9rem;
+        }
+        @media (max-width: 768px) {
+            nav ul {
+                flex-direction: column;
+                gap: 1rem;
+                align-items: center;
+            }
+            header h1 {
+                font-size: 2rem;
+            }
+            header p {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#hero">Beranda</a></li>
+            <li><a href="#menu">Menu</a></li>
+            <li><a href="#atmosphere">Suasana</a></li>
+            <li><a href="#contact">Kontak</a></li>
+        </ul>
+    </nav>
+    <header id="hero">
+        <h1>Kopi Senja</h1>
+        <p>Temaram Senja, Sepahit Cerita</p>
+    </header>
+    <section id="menu">
+        <h2 style="text-align: center; margin-bottom: 2rem; color: var(--dark-brown);">Menu Kopi Khas</h2>
+        <div class="menu-grid">
+            <div class="menu-item">
+                <div class="emoji">☕</div>
+                <h3>Kopi Hitam</h3>
+                <p>Kopi hitam pekat dengan aroma kuat dan rasa yang mengugah selera.</p>
+            </div>
+            <div class="menu-item">
+                <div class="emoji">🥐</div>
+                <h3>Kopi Susu</h3>
+                <p>Kopi yang lembut dengan campuran susu segar yang memberikan rasa manis alami.</p>
+            </div>
+            <div class="menu-item">
+                <div class="emoji">🍫</div>
+                <h3>Kopi Mocha</h3>
+                <p>Kopi hitang yang dicampur dengan cokelat dan susu, menciptakan rasa yang kaya dan manis.</p>
+            </div>
+            <div class="menu-item">
+                <div class="emoji">🌰</div>
+                <h3>Kopi Kopi Karamel</h3>
+                <p>Kopi dengan sentuhan karamel yang memberikan rasa manis yang khas dan hangat.</p>
+            </div>
+        </div>
+    </section>
+    <section id="atmosphere" class="atmosphere">
+        <h2 style="text-align: center; margin-bottom: 1.5rem; color: var(--dark-brown);">Suasana yang Cozy dan Menyenangkan</h2>
+        <p>Di Kopi Senja, kami menghadirkan suasana yang hangat dan nyaman, ideal untuk berbicara panjang, membaca buku, atau sekadar menikmati secangkir kopi sambil menatenghi hujan senja. Interior kami dirancang dengan kombinasi kayu wanita, lampu kuning yang lembut, dan kursi yang nyaman sehingga Anda bisa merasa seperti di rumah sendiri.</p>
+        <p>Nikmati kopi khas kami sambil menyaksikan pemandangan senja yang indah melalui jendela kami. Setiap secangkir kopi kami disajikan dengan penuh cinta dan perhatian terhadap detail, dari pemilihan biji kopi terbaik hingga proses penyirian yang tepat. Di Kopi Senja, setiap tegukan adalah pengalaman yang mengugah selera dan menenangkan jiwa.</p>
+    </section>
+    <section id="contact" class="contact-form">
+        <h2 style="text-align: center; margin-bottom: 1.5rem; color: var(--dark-brown);">Hubungi Kami</h2>
+        <iframe src="" style="width:100%;height:300px;border:0;border-radius:8px;margin-bottom:15px" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Lokasi Kopi Senja"></iframe>
+        <form action="#" method="POST">
+            <div>
+                <label for="nama">Nama:</label>
+                <input type="text" id="nama" name="nama" required placeholder="Masukkan nama Anda">
+            </div>
+            <div>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required placeholder="Masukkan email Anda">
+            </div>
+            <div>
+                <label for="pesan">Pesan:</label>
+                <textarea id="pesan" name="pesan" rows="5" required placeholder="Tulis pesan Anda di sini"></textarea>
+            </div>
+            <button type="submit">Kirim Pesan</button>
+        </form>
+    </section>
+    <footer>
+        <p>&copy; 2026 Kopi Senja. All rights reserved.</p>
+    </footer>
+</body>
+</html>
