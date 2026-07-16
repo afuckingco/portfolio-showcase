@@ -179,6 +179,7 @@ Five self-contained HTML/CSS business websites under `restaurant/`, `coffee-shop
 | [`minimarket/`](minimarket/index.html) | Toko Kita | Minimarket |
 | [`apotek/`](apotek/index.html) | Apotek Sehat Farma | Apotek |
 | [`perusahaan/`](perusahaan/index.html) | PT. Cipta Solusi Nusantara | Perusahaan IT |
+| [`kecap-manalagi-dewata/`](kecap-manalagi-dewata/) | Kecap Manalagi Dewata | E-commerce (Next.js) |
 
 ---
 

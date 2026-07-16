@@ -1,0 +1,26 @@
+[
+  {
+    "id": "kecap-manis-asli",
+    "name": "Kecap Manis Asli",
+    "tag": "Kental · Legit",
+    "description": "Kecap andalan kami, dimasak dengan gula aren asli. Cocok untuk nasi goreng, sate, dan masakan rumahan sehari-hari.",
+    "viscosityLabel": "Sedang",
+    "viscosityPct": 62
+  },
+  {
+    "id": "kecap-manis-super-kental",
+    "name": "Kecap Manis Super Kental",
+    "tag": "Ekstra Kental",
+    "description": "Dimasak lebih lama dengan gula aren lebih banyak. Pilihan restoran dan katering untuk saus sate dan tumisan bercita rasa kuat.",
+    "viscosityLabel": "Tinggi",
+    "viscosityPct": 90
+  },
+  {
+    "id": "kecap-asin",
+    "name": "Kecap Asin",
+    "tag": "Gurih · Cair",
+    "description": "Diolah dari tauco dan kedelai pilihan, rasa gurih yang seimbang. Cocok untuk tumisan, sup, dan bumbu marinasi.",
+    "viscosityLabel": "Ringan",
+    "viscosityPct": 28
+  }
+]
