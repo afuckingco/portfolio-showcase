@@ -1,14 +1,16 @@
 name: CI
-
 on:
   push:
-    branches: [ main, master ]
+    branches: [main, master]
   pull_request:
-    branches: [ "**" ]
-
+    branches: [main, master]
 jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: echo "No specific linter configured; add one as needed."
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m compileall -q .
+      - uses: astral-sh/ruff-action@v3
